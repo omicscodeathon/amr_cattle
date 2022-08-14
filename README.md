@@ -1,2 +1,3 @@
-# chromatin_malaria_covid19
-ATAC-seq and ChiP-seq Analysis for CoVID-19 and Malaria Patients
+# AMR Cattle
+
+A comparative study of AMR genes found in East Africa.

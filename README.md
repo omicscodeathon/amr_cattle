@@ -12,3 +12,4 @@ This is a comparative study of Antimicrobial Resistance (AMR) genes found in Eas
 ## Team Members
 1. [Kauthar M. Omar](https://github.com/Kauthar-Omar) 
 2. [George L. Kitundu]()
+3. [Felix M. Lisso](https://github.com/fetche-lab)

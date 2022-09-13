@@ -1,6 +1,0 @@
-#-- Created by /opt/SqueezeMeta-1.5.2/scripts/10.mapsamples.pl, Mon Sep  5 18:29:03 2022
-# Sample	Total reads	Mapped reads	Mapping perc	Total bases
-ERR2777827	562717	29371	5.22	113814062
-
-# Notice that mapping percentage is low (<50%) for some samples. This is a potential problem,  meaning that most reads are not represented in the assembly
-# You could redo your analysis using assignment of the raw reads instead of relying on the assembly. Use sqm_reads.pl or sqm_longreads.pl for this purpose. That strategy will not provide bins

@@ -9,6 +9,13 @@ The emergence of antimicrobial resistance (AMR) is a major global public health 
 ## General Objective
 - To compare AMR genes diversity in Kenya, Uganda and Tanzania
 
+## Specific Objectives
+- To identify common resistomes between Kenya,Uganda and Tanzania
+- To identify unique resistomes in Kenya, Uganda and Tanzania
+- To identify interrelationship between microbiome and resistomes.
+- To identify environmental factors resulting to localization of some AMR genes to a specific country
+
+
 ## Workflow
 
 ![Workflow](https://user-images.githubusercontent.com/57720624/188499288-a23d8c36-c717-4e60-b564-e6c8060e0334.png)

@@ -1,0 +1,44 @@
+Rank	Taxon	Accumulated contig size	mgm4754670.3 reads	mgm4754670.3 bases
+k	k_Bacteria	106899	3767	393612
+p	k_Bacteria;p_Proteobacteria	94375	2454	262030
+o	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales	52861	1325	139773
+c	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria	52861	1325	139773
+f	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae	51890	1297	137165
+g	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas	47580	1191	126055
+c	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria	39755	1080	116872
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales	38441	1042	113181
+f	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae	38155	1039	112914
+g	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas	37445	1020	111102
+n	Unknown	32924	1222	125960
+n	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;n_unclassified Comamonas	23236	579	61380
+s	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;n_unclassified Comamonas;s_Comamonas sp.	23236	579	61380
+p	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes	3936	433	42953
+n	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group	3936	433	42953
+n	k_Bacteria;n_FCB group	3936	433	42953
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales	3614	424	41979
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia	3614	424	41979
+n	k_Bacteria;n_Terrabacteria group	1921	76	8187
+p	k_Bacteria;n_Terrabacteria group;p_Firmicutes	1921	76	8187
+k	k_Viruses	1419	45	4540
+n	k_Viruses;n_Duplodnaviria	1077	33	3353
+p	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota	1077	33	3353
+n	k_Viruses;n_Duplodnaviria;n_Heunggongvirae	1077	33	3353
+o	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales	1048	53	5759
+c	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli	1048	53	5759
+f	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae	1048	53	5759
+c	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia	873	23	2428
+s	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;species n_Pseudomonas fluorescens group;s_Pseudomonas veronii	787	11	1424
+species n	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;species n_Pseudomonas fluorescens group	787	11	1424
+o	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales	760	25	2517
+c	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota;c_Caudoviricetes	760	25	2517
+s	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;s_Comamonas aquatica	445	9	1047
+c	k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria	434	19	2011
+f	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Myoviridae	402	18	1809
+o	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales	360	6	695
+n	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;n_Burkholderiales genera incertae sedis	324	13	1179
+g	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;n_Burkholderiales genera incertae sedis;g_Rhizobacter	324	13	1179
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales	322	9	1004
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	322	9	974
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales	322	9	974
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia	322	9	974
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Bacteroidaceae	315	4	508

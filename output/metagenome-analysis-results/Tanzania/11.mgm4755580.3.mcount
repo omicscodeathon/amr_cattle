@@ -1,0 +1,72 @@
+Rank	Taxon	Accumulated contig size	mgm4755580.3 reads	mgm4755580.3 bases
+k	k_Bacteria	125306	3267	342342
+n	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group	90530	2354	245183
+p	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes	90530	2354	245183
+n	k_Bacteria;n_FCB group	90530	2354	245183
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia	65565	1708	178116
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales	63595	1649	172141
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae	60302	1562	162697
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pedobacter	52019	1356	141167
+n	Unknown	46094	1584	158691
+p	k_Bacteria;p_Proteobacteria	26749	664	70709
+c	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria	21194	531	56509
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales	20505	519	55031
+g	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas	20505	519	55031
+f	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae	20505	519	55031
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia	10131	251	26125
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales	9790	247	25676
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	9459	236	24701
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium	7944	181	19254
+c	k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria	5024	122	12994
+f	k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae	3630	86	9354
+o	k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales	3630	86	9354
+g	k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Caulobacterales;f_Caulobacteraceae;g_Brevundimonas	2968	69	7614
+n	k_Bacteria;n_Terrabacteria group	2116	75	7809
+p	k_Bacteria;n_Terrabacteria group;p_Actinobacteria	1399	47	4840
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Sphingobacterium	1020	25	2559
+c	k_Bacteria;n_Terrabacteria group;p_Actinobacteria;c_Actinomycetia	988	33	3524
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pedobacter;s_Pedobacter nyackensis	753	21	2033
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Chitinophagia	741	16	1825
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Chitinophagia;o_Chitinophagales;f_Chitinophagaceae	741	16	1825
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Chitinophagia;o_Chitinophagales	741	16	1825
+f	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae	689	12	1478
+g	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter	689	12	1478
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales	689	12	1478
+k	k_Viruses	661	22	2193
+p	k_Bacteria;p_Spirochaetes	617	12	1299
+o	k_Bacteria;p_Spirochaetes;c_Spirochaetia;o_Spirochaetales	617	12	1299
+c	k_Bacteria;p_Spirochaetes;c_Spirochaetia	617	12	1299
+f	k_Bacteria;p_Spirochaetes;c_Spirochaetia;o_Spirochaetales;f_Treponemataceae	617	12	1299
+o	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales	531	11	1206
+c	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria	531	11	1206
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pedobacter;s_Pedobacter hiemivivus	531	14	1437
+o	k_Bacteria;n_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Corynebacteriales	509	17	1891
+o	k_Bacteria;n_Terrabacteria group;p_Actinobacteria;c_Actinomycetia;o_Propionibacteriales	479	16	1633
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pedobacter;n_unclassified Pedobacter;s_Pedobacter sp.	446	16	1520
+n	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pedobacter;n_unclassified Pedobacter	446	16	1520
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pseudopedobacter;s_Pseudopedobacter saltans	421	13	1157
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pseudopedobacter	421	13	1157
+p	k_Bacteria;n_Terrabacteria group;p_Firmicutes	386	14	1645
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Chitinophagia;o_Chitinophagales;f_Chitinophagaceae;g_Chitinophaga	381	10	1021
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pedobacter;s_Pedobacter heparinus	375	10	1043
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Chitinophagia;o_Chitinophagales;f_Chitinophagaceae;g_Niabella	360	6	804
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Parapedobacter	355	7	782
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae;g_Flavobacterium;s_Flavobacterium ummariense	344	7	758
+n	k_Viruses;n_Duplodnaviria	332	10	1084
+c	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota;c_Caudoviricetes	332	10	1084
+p	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota	332	10	1084
+n	k_Viruses;n_Duplodnaviria;n_Heunggongvirae	332	10	1084
+p	k_Bacteria;n_Terrabacteria group;p_Candidatus Dormibacteraeota	331	14	1324
+s	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;species n_Pseudomonas fluorescens group;s_Pseudomonas poae	328	6	733
+species n	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;species n_Pseudomonas fluorescens group	328	6	733
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Pedobacter;s_Pedobacter nanyangensis	327	9	859
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia	314	8	942
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales	314	8	942
+f	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Burkholderiaceae	310	10	1039
+g	k_Bacteria;p_Spirochaetes;c_Spirochaetia;o_Spirochaetales;f_Treponemataceae;g_Treponema	304	5	600
+g	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Pigmentiphaga	221	1	167
+s	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae;g_Pigmentiphaga;s_Pigmentiphaga litoralis	221	1	167
+f	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Alcaligenaceae	221	1	167
+f	k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Roseobacteraceae	208	1	133
+o	k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales	208	1	133
+g	k_Bacteria;p_Proteobacteria;c_Alphaproteobacteria;o_Rhodobacterales;f_Roseobacteraceae;g_Sagittula	208	1	133

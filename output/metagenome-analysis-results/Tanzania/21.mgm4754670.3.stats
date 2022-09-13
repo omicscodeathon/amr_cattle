@@ -1,0 +1,70 @@
+# Created by /opt/SqueezeMeta-1.5.2/scripts/21.stats.pl (SqueezeMeta), Tue Sep  6 08:25:54 2022
+# Run started for mgm4754670.3, Tue Sep  6 07:49:36 2022
+
+# Parameters
+Assembler: megahit
+Min length of contigs: 200
+Max evalue for Diamond search: 
+Min identity for Diamond COG/KEGG search: 
+
+#------------------- Statistics on reads
+#	Assembly	mgm4754670.3
+Number of reads	299678	299678
+Number of bases	30269406	30269406
+
+#------------------- Statistics on contigs
+#	Assembly
+Number of contigs	341
+Total length	141242
+Longest contig	3674
+Shortest contig	280
+N50	372
+N90	309
+Contigs at superkingdom (k) rank	275 (80.6%), in 2 superkingdoms
+Contigs at phylum (p) rank	267 (78.3%), in 4 phyla
+Contigs at class (c) rank	262 (76.8%), in 8 classes
+Contigs at order (o) rank	257 (75.4%), in 8 orders
+Contigs at family (f) rank	249 (73.0%), in 6 families
+Contigs at genus (g) rank	233 (68.3%), in 3 genera
+Contigs at species (s) rank	67 (19.6%), in 3 species
+Congruent	342 (100.3%)
+Disparity >0	 (0.0%)
+Disparity >= 0.25	 (0.0%)
+
+Most abundant taxa	mgm4754670.3
+superkingdom	Bacteria
+phylum	Proteobacteria
+class	Betaproteobacteria
+order	Burkholderiales
+family	Comamonadaceae
+genus	Comamonas
+species	Comamonas sp.
+
+#------------------- Statistics on ORFs
+#	Assembly	mgm4754670.3
+Number of ORFs	407	406
+Number of rRNAs	19	19
+Number of tRNAs/tmRNAs	11	11
+ORFs by Aragorn	11	11
+ORFs by Prodigal	377	376
+ORFs by barrnap	19	19
+Orphans (no hits)	90	89
+No tax assigned (with hits)	9	9
+KEGG annotations	199	199
+COG annotations	259	259
+Pfam annotations	139	139
+
+#------------------- Statistics on bins
+#
+Number of bins
+Complete >= 50%
+Complete >= 75%
+Complete >= 90%
+Contamination < 10%
+Contamination >= 50%
+Congruent bins
+Disparity >0
+Disparity >= 0.25
+Hi-qual bins (>90% complete,<10% contam)
+Good-qual bins (>75% complete,<10% contam)
+

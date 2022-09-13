@@ -1,0 +1,70 @@
+# Created by /opt/SqueezeMeta-1.5.2/scripts/21.stats.pl (SqueezeMeta), Mon Sep  5 15:40:57 2022
+# Run started for ERR2777823, Mon Sep  5 14:52:06 2022
+
+# Parameters
+Assembler: megahit
+Min length of contigs: 200
+Max evalue for Diamond search: 
+Min identity for Diamond COG/KEGG search: 
+
+#------------------- Statistics on reads
+#	Assembly	ERR2777823
+Number of reads	384682	384682
+Number of bases	74654434	74654434
+
+#------------------- Statistics on contigs
+#	Assembly
+Number of contigs	4882
+Total length	2318094
+Longest contig	4266
+Shortest contig	209
+N50	473
+N90	332
+Contigs at superkingdom (k) rank	4320 (88.5%), in 4 superkingdoms
+Contigs at phylum (p) rank	4226 (86.6%), in 15 phyla
+Contigs at class (c) rank	4185 (85.7%), in 21 classes
+Contigs at order (o) rank	4038 (82.7%), in 24 orders
+Contigs at family (f) rank	3701 (75.8%), in 32 families
+Contigs at genus (g) rank	3503 (71.8%), in 28 genera
+Contigs at species (s) rank	742 (15.2%), in 42 species
+Congruent	4883 (100.0%)
+Disparity >0	 (0.0%)
+Disparity >= 0.25	 (0.0%)
+
+Most abundant taxa	ERR2777823
+superkingdom	Bacteria
+phylum	Proteobacteria
+class	Gammaproteobacteria
+order	Moraxellales
+family	Moraxellaceae
+genus	Acinetobacter
+species	Prevotella sp.
+
+#------------------- Statistics on ORFs
+#	Assembly	ERR2777823
+Number of ORFs	6077	6075
+Number of rRNAs	83	83
+Number of tRNAs/tmRNAs	73	73
+ORFs by Aragorn	73	73
+ORFs by Prodigal	5921	5919
+ORFs by barrnap	83	83
+Orphans (no hits)	773	772
+No tax assigned (with hits)	94	94
+KEGG annotations	3710	3710
+COG annotations	4622	4621
+Pfam annotations	2718	2718
+
+#------------------- Statistics on bins
+#
+Number of bins
+Complete >= 50%
+Complete >= 75%
+Complete >= 90%
+Contamination < 10%
+Contamination >= 50%
+Congruent bins
+Disparity >0
+Disparity >= 0.25
+Hi-qual bins (>90% complete,<10% contam)
+Good-qual bins (>75% complete,<10% contam)
+

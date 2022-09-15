@@ -1,0 +1,5 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Mon Sep  5 16:30:31 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_81_1-331	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_110_91-590	Bacteria	Gammaproteobacteria	class	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria
+megahit_240_4-454	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales

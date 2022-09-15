@@ -1,0 +1,11 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Tue Sep  6 11:51:05 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_4_1-367	Bacteria	Proteobacteria	phylum	superkingdom:Bacteria;phylum:Proteobacteria
+megahit_36_1059-1353	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_66_4-375	Bacteria	Moraxellaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae
+megahit_77_3-540	Bacteria	Acinetobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae;genus:Acinetobacter
+megahit_149_2-178	Bacteria	Arcobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;subphylum:delta/epsilon subdivisions;class:Epsilonproteobacteria;order:Campylobacterales;family:Arcobacteraceae;genus:Arcobacter
+megahit_155_1-363	Bacteria	Arcobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;subphylum:delta/epsilon subdivisions;class:Epsilonproteobacteria;order:Campylobacterales;family:Arcobacteraceae;genus:Arcobacter
+megahit_232_1-303	Bacteria	Paludibacter	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Paludibacteraceae;genus:Paludibacter
+megahit_250_1-396	Bacteria	Comamonadaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae
+megahit_254_332-1207	Bacteria	Veillonellaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Negativicutes;order:Veillonellales;family:Veillonellaceae

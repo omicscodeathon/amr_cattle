@@ -1,0 +1,9 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Tue Sep  6 07:50:11 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_34_1-401	Bacteria	Pseudomonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae;genus:Pseudomonas
+megahit_76_119-764	Bacteria	Comamonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae;genus:Comamonas
+megahit_144_1-509	Bacteria	Pseudomonadaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae
+megahit_173_3-614	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_207_521-868	Bacteria	Pseudomonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae;genus:Pseudomonas
+megahit_270_1-284	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_297_1076-1357	Bacteria	Comamonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae;genus:Comamonas

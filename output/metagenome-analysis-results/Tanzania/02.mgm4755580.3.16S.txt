@@ -1,0 +1,11 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Tue Sep  6 11:16:27 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_64_1-480	Bacteria	Pedobacter	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Sphingobacteriia;order:Sphingobacteriales;family:Sphingobacteriaceae;genus:Pedobacter
+megahit_80_2-310	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_182_2-277	Bacteria	Pseudomonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae;genus:Pseudomonas
+megahit_218_1-164	Bacteria	Flavobacteriaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae
+megahit_285_2-547	Bacteria	Pseudomonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae;genus:Pseudomonas
+megahit_330_1-329	Bacteria	Flavobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Flavobacterium
+megahit_403_2-603	Bacteria	Pseudomonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae;genus:Pseudomonas
+megahit_406_2-398	Bacteria	Flavobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Flavobacterium
+megahit_443_3-565	Bacteria	Brevundimonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Alphaproteobacteria;order:Caulobacterales;family:Caulobacteraceae;genus:Brevundimonas

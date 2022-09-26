@@ -1,22 +1,11 @@
 #!usr/bin/env bash
 
-ke_sample_data='../data/ke.samples.csv'
-tz_sample_data='../data/tz.samples.csv'
-ug_sample_data='../data/ug.samples.csv'
-
-samples_file_ke='../data/ke.samples'
-samples_file_tz='../data/tz.samples'
-samples_file_ug='../data/ug.samples'
-
-echo running $ke_sample_data
-sed 's/','/\t/g' $ke_sample_data > $out_ke
-echo running $tz_data
-sed 's/','/\t/g' $tz_sample_data > $out_tz
-echo running $ug_sample_data
-sed 's/','/\t/g' $ug_sample_data > $out_ug
+ke_samples='../data/ke.samples'
+tz_samples='../data/tz.samples'
+ug_samples='../data/ug.samples'
 
 #running squeezemeta on Kenyan dataset.
-#
+echo 'Running squeezemeta on Kenya dataset'
 /opt/SqueezeMeta-1.5.2/scripts/SqueezeMeta.pl -m sequential -s $samples_file_ke -f ../data/ke_data -t 30
 
 #running squeezemeta on Tanzanian dataset.

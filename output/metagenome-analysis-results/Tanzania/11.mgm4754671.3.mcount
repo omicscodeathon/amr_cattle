@@ -1,0 +1,59 @@
+Rank	Taxon	Accumulated contig size	mgm4754671.3 reads	mgm4754671.3 bases
+k	k_Bacteria	47579	4476	440450
+n	Unknown	42561	3260	324370
+p	k_Bacteria;p_Proteobacteria	9687	290	28858
+c	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria	5890	157	15961
+n	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group	5836	264	25307
+p	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes	5836	264	25307
+n	k_Bacteria;n_FCB group	5836	264	25307
+n	k_Bacteria;n_Terrabacteria group	4103	206	20041
+p	k_Bacteria;n_Terrabacteria group;p_Firmicutes	4103	206	20041
+f	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae	3042	72	7444
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales	3042	72	7444
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia	2424	108	10238
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales;f_Flavobacteriaceae	2424	108	10238
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Flavobacteriia;o_Flavobacteriales	2424	108	10238
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia	2366	131	12669
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales	2366	131	12669
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales	2174	71	7068
+f	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae	2174	71	7068
+c	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria	1981	62	6105
+g	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Stenotrophomonas	1945	47	4961
+g	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas	1808	64	6254
+o	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales	1604	44	4501
+c	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli	1580	122	11783
+o	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales	1384	38	3772
+c	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia	1384	38	3772
+f	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Lachnospiraceae	1058	29	2884
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae	1046	25	2400
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales;f_Sphingobacteriaceae;g_Sphingobacterium	1046	25	2400
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia;o_Sphingobacteriales	1046	25	2400
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Sphingobacteriia	1046	25	2400
+f	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae	964	25	2478
+g	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas	964	25	2478
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Prevotellaceae	560	15	1415
+f	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae	473	37	3450
+o	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales	473	37	3450
+g	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Enterococcaceae;g_Enterococcus	473	37	3450
+n	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;n_unclassified Comamonas	444	16	1594
+s	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;n_unclassified Comamonas;s_Comamonas sp.	444	16	1594
+n	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;n_unclassified Pseudomonadaceae	366	7	814
+s	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;n_unclassified Pseudomonadaceae;s_[Flavobacterium] sp.	366	7	814
+n	k_Archaea;p_Euryarchaeota;n_Methanomada group	350	10	961
+k	k_Archaea	350	10	961
+f	k_Archaea;p_Euryarchaeota;n_Methanomada group;c_Methanobacteria;o_Methanobacteriales;f_Methanobacteriaceae	350	10	961
+c	k_Archaea;p_Euryarchaeota;n_Methanomada group;c_Methanobacteria	350	10	961
+p	k_Archaea;p_Euryarchaeota	350	10	961
+o	k_Archaea;p_Euryarchaeota;n_Methanomada group;c_Methanobacteria;o_Methanobacteriales	350	10	961
+s	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;s_Pseudomonas helleri	330	9	815
+o	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Bacillales	317	26	2516
+c	k_Bacteria;n_PVC group;p_Kiritimatiellaeota;c_Kiritimatiellae	304	5	521
+p	k_Bacteria;n_PVC group;p_Kiritimatiellaeota	304	5	521
+n	k_Bacteria;n_PVC group	304	5	521
+c	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota;c_Caudoviricetes	219	1	130
+f	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales;f_Siphoviridae	219	1	130
+o	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota;c_Caudoviricetes;o_Caudovirales	219	1	130
+n	k_Viruses;n_Duplodnaviria	219	1	130
+n	k_Viruses;n_Duplodnaviria;n_Heunggongvirae	219	1	130
+p	k_Viruses;n_Duplodnaviria;n_Heunggongvirae;p_Uroviricota	219	1	130
+k	k_Viruses	219	1	130

@@ -1,0 +1,45 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Mon Sep  5 17:02:33 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_54_2-188	Bacteria	Ruminococcaceae	family	
+megahit_94_5-420	Bacteria	Ruminococcaceae	family	
+megahit_432_372-834	Bacteria	Porphyromonadaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Porphyromonadaceae
+megahit_449_1-317	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_496_2-730	Bacteria	Ruminococcaceae	family	
+megahit_757_316-705	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_786_1-310	Bacteria	Bacillales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales
+megahit_832_1-310	Bacteria	Planococcaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Planococcaceae
+megahit_893_3-526	Bacteria	Ruminococcaceae	family	
+megahit_897_2-579	Bacteria	Moraxellaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae
+megahit_1017_5-262	Bacteria	Ruminococcaceae	family	
+megahit_1125_622-1406	Bacteria	Escherichia/Shigella	genus	
+megahit_1171_1-474	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_1411_168-446	Bacteria	Acinetobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae;genus:Acinetobacter
+megahit_1458_3-185	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_1597_2-482	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_1646_27-962	Bacteria	Clostridiales	order	
+megahit_1781_1-346	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_1929_5-405	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_1960_9-403	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_2052_2-354	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_2281_218-1676	Bacteria	Solibacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Planococcaceae;genus:Solibacillus
+megahit_2493_1822-2109	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_2501_344-682	Bacteria	Salmonella	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae;genus:Salmonella
+megahit_2512_165-649	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_2657_7-411	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_2717_1-470	Bacteria	Acinetobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae;genus:Acinetobacter
+megahit_2731_2-399	Bacteria	Clostridiales	order	
+megahit_2733_2-258	Bacteria	Enterococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Enterococcaceae;genus:Enterococcus
+megahit_2855_2-462	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_2859_154-420	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_2922_209-388	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_3108_5-528	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_3266_1-312	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_3449_93-388	Bacteria	Ruminococcaceae	family	
+megahit_3478_1-317	Bacteria	Ruminococcaceae	family	
+megahit_3507_3-308	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_3603_17-594	Bacteria	Clostridiales	order	
+megahit_3624_1-317	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_3690_2-325	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_3859_1-890	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_3877_2-318	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_3966_1-751	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales

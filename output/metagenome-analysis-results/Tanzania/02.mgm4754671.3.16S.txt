@@ -1,0 +1,11 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Tue Sep  6 08:26:16 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_7_1-464	Bacteria	Sphingobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Sphingobacteriia;order:Sphingobacteriales;family:Sphingobacteriaceae;genus:Sphingobacterium
+megahit_32_3-622	Bacteria	Comamonadaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae
+megahit_37_1-539	Bacteria	Comamonadaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae
+megahit_62_2-311	Bacteria	Pedobacter	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Sphingobacteriia;order:Sphingobacteriales;family:Sphingobacteriaceae;genus:Pedobacter
+megahit_67_2-402	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_69_1-320	Bacteria	Pseudomonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae;genus:Pseudomonas
+megahit_89_1-401	Bacteria	Acidovorax	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae;genus:Acidovorax
+megahit_102_1-444	Bacteria	Flavobacteriaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae
+megahit_109_1-354	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes

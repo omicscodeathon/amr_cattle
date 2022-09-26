@@ -1,0 +1,72 @@
+Rank	Taxon	Accumulated contig size	mgm4755581.3 reads	mgm4755581.3 bases
+k	k_Bacteria	137689	5241	518336
+p	k_Bacteria;p_Proteobacteria	103445	3469	345318
+c	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria	40417	1377	135933
+c	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria	39958	1360	136700
+o	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales	39492	1345	135226
+f	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae	35698	1186	117015
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales	35698	1186	117015
+g	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter	35698	1186	117015
+f	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae	35307	1160	116516
+n	Unknown	33523	1984	190101
+g	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas	30212	1026	102374
+p	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes	22815	1261	122283
+n	k_Bacteria;n_FCB group	22815	1261	122283
+n	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group	22815	1261	122283
+c	k_Bacteria;p_Proteobacteria;n_delta/epsilon subdivisions;c_Epsilonproteobacteria	22163	710	70427
+n	k_Bacteria;p_Proteobacteria;n_delta/epsilon subdivisions	22163	710	70427
+o	k_Bacteria;p_Proteobacteria;n_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales	21703	698	69161
+c	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia	20955	1213	117416
+f	k_Bacteria;p_Proteobacteria;n_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Arcobacteraceae	19800	642	63348
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales	12872	872	84695
+s	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;n_unclassified Comamonas;s_Comamonas sp.	10268	294	29728
+n	k_Bacteria;p_Proteobacteria;c_Betaproteobacteria;o_Burkholderiales;f_Comamonadaceae;g_Comamonas;n_unclassified Comamonas	10268	294	29728
+p	k_Bacteria;n_Terrabacteria group;p_Firmicutes	7798	396	39084
+n	k_Bacteria;n_Terrabacteria group	7798	396	39084
+s	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter;n_unclassified Acinetobacter;s_Acinetobacter sp.	5379	161	16104
+n	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter;n_unclassified Acinetobacter	5379	161	16104
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Paludibacteraceae	5292	135	13537
+c	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia	4913	246	24472
+f	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae	3969	189	18925
+o	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales	3969	189	18925
+g	k_Bacteria;p_Proteobacteria;n_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Arcobacteraceae;g_Aliarcobacter	3136	94	9496
+f	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales;f_Lactobacillaceae	2885	150	14612
+c	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli	2885	150	14612
+o	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Bacilli;o_Lactobacillales	2885	150	14612
+f	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae	1837	100	9505
+g	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas	1837	100	9505
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales	1837	100	9505
+s	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae;n_unclassified Oscillospiraceae;s_Oscillospiraceae bacterium	1299	42	4243
+n	k_Bacteria;n_Terrabacteria group;p_Firmicutes;c_Clostridia;o_Eubacteriales;f_Oscillospiraceae;n_unclassified Oscillospiraceae	1299	42	4243
+s	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter;s_Acinetobacter portensis	1205	67	6676
+f	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae	1161	44	4475
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales	1161	44	4475
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Paludibacteraceae;g_Paludibacter	1112	30	3287
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;n_unclassified Bacteroidia;s_Bacteroidia bacterium	1107	47	4564
+n	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;n_unclassified Bacteroidia	1107	47	4564
+n	k_Bacteria;p_Proteobacteria;n_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Arcobacteraceae;g_Aliarcobacter;n_unclassified Aliarcobacter	1103	30	3011
+s	k_Bacteria;p_Proteobacteria;n_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Arcobacteraceae;g_Aliarcobacter;n_unclassified Aliarcobacter;s_Aliarcobacter sp.	1103	30	3011
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Paludibacteraceae;n_unclassified Paludibacteraceae;s_Paludibacteraceae bacterium	1046	24	2495
+n	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Paludibacteraceae;n_unclassified Paludibacteraceae	1046	24	2495
+g	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Xanthomonadales;f_Xanthomonadaceae;g_Stenotrophomonas	853	35	3594
+o	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales	668	14	1606
+f	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Enterobacterales;f_Enterobacteriaceae	668	14	1606
+n	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Paludibacteraceae;g_Paludibacter;n_unclassified Paludibacter	652	17	1879
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Paludibacteraceae;g_Paludibacter;n_unclassified Paludibacter;s_Paludibacter sp.	652	17	1879
+g	k_Bacteria;p_Proteobacteria;n_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Arcobacteraceae;g_Arcobacter	521	107	10148
+s	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;n_unclassified Bacteroidetes;s_Bacteroidetes bacterium	460	16	1517
+n	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;n_unclassified Bacteroidetes	460	16	1517
+o	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Marinilabiliales	430	17	1580
+g	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Dysgonomonadaceae;g_Dysgonomonas	414	12	1231
+f	k_Bacteria;n_FCB group;n_Bacteroidetes/Chlorobi group;p_Bacteroidetes;c_Bacteroidia;o_Bacteroidales;f_Dysgonomonadaceae	414	12	1231
+species n	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter;species n_Acinetobacter calcoaceticus/baumannii complex	368	14	1456
+s	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Moraxellales;f_Moraxellaceae;g_Acinetobacter;species n_Acinetobacter calcoaceticus/baumannii complex;s_Acinetobacter baumannii	368	14	1456
+n	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;n_unclassified Pseudomonas	326	33	3222
+s	k_Bacteria;p_Proteobacteria;c_Gammaproteobacteria;o_Pseudomonadales;f_Pseudomonadaceae;g_Pseudomonas;n_unclassified Pseudomonas;s_Pseudomonas sp.	326	33	3222
+n	k_Bacteria;n_Bacteria incertae sedis;n_Bacteria candidate phyla	318	8	771
+p	k_Bacteria;n_Bacteria incertae sedis;n_Bacteria candidate phyla;p_Candidatus Saccharibacteria	318	8	771
+f	k_Bacteria;n_Bacteria incertae sedis;n_Bacteria candidate phyla;p_Candidatus Saccharibacteria;c_Candidatus Saccharimonia;o_Candidatus Saccharimonales;f_Candidatus Sacchiramonaceae	318	8	771
+n	k_Bacteria;n_Bacteria incertae sedis	318	8	771
+o	k_Bacteria;n_Bacteria incertae sedis;n_Bacteria candidate phyla;p_Candidatus Saccharibacteria;c_Candidatus Saccharimonia;o_Candidatus Saccharimonales	318	8	771
+c	k_Bacteria;n_Bacteria incertae sedis;n_Bacteria candidate phyla;p_Candidatus Saccharibacteria;c_Candidatus Saccharimonia	318	8	771
+s	k_Bacteria;p_Proteobacteria;n_delta/epsilon subdivisions;c_Epsilonproteobacteria;o_Campylobacterales;f_Arcobacteraceae;g_Aliarcobacter;s_Aliarcobacter butzleri	309	6	592

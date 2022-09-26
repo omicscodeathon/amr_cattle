@@ -1,0 +1,17 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Mon Sep  5 15:41:29 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_418_1-464	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_523_2-541	Bacteria	Lysinibacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Bacillaceae;genus:Lysinibacillus
+megahit_543_1-672	Bacteria	Flavobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Flavobacterium
+megahit_724_1-675	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_929_129-509	Bacteria	Flavobacteriaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae
+megahit_1403_1-809	Bacteria	Comamonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae;genus:Comamonas
+megahit_1420_1-432	Bacteria	Flavobacteriaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae
+megahit_1685_1-415	Bacteria	Gammaproteobacteria	class	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria
+megahit_1978_431-932	Bacteria	Comamonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae;genus:Comamonas
+megahit_2297_424-1956	Bacteria	Acinetobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae;genus:Acinetobacter
+megahit_2479_1-473	Bacteria	Arcobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;subphylum:delta/epsilon subdivisions;class:Epsilonproteobacteria;order:Campylobacterales;family:Arcobacteraceae;genus:Arcobacter
+megahit_2525_1-305	Bacteria	Gammaproteobacteria	class	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria
+megahit_2540_2-545	Bacteria	Solibacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Planococcaceae;genus:Solibacillus
+megahit_2557_1-683	Bacteria	Aeromonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Aeromonadales;family:Aeromonadaceae;genus:Aeromonas
+megahit_2591_1-344	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae

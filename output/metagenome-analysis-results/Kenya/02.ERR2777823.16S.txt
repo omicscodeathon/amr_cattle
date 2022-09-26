@@ -1,0 +1,26 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Mon Sep  5 14:54:01 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_141_2-492	Bacteria	Planococcaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Planococcaceae
+megahit_265_2-277	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_528_614-886	Bacteria	Acinetobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae;genus:Acinetobacter
+megahit_635_93-1621	Bacteria	Comamonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae;genus:Comamonas
+megahit_665_328-686	Bacteria	Prevotella	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Prevotellaceae;genus:Prevotella
+megahit_1031_2-426	Bacteria	Pseudomonadaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae
+megahit_1465_1-318	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_1570_135-409	Bacteria	Acinetobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae;genus:Acinetobacter
+megahit_1755_1-517	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_1965_116-721	Bacteria	Gammaproteobacteria	class	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria
+megahit_2104_3-458	Bacteria	Flavobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae;genus:Flavobacterium
+megahit_2406_1-366	Bacteria	Prevotella	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Prevotellaceae;genus:Prevotella
+megahit_2486_1-477	Bacteria	Prevotella	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Prevotellaceae;genus:Prevotella
+megahit_2575_143-464	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_2746_1-349	Bacteria	Subdivision5	genus	
+megahit_2848_168-622	Bacteria	Prevotella	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Prevotellaceae;genus:Prevotella
+megahit_2889_453-715	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_3026_2-942	Bacteria	Acinetobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae;genus:Acinetobacter
+megahit_3175_2-482	Bacteria	Flavobacteriaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae
+megahit_3232_8-446	Bacteria	Flavobacteriaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Flavobacteriaceae
+megahit_3566_1-285	Bacteria	Bacteroidetes	phylum	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes
+megahit_3932_3-764	Bacteria	Moraxellaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Moraxellales;family:Moraxellaceae
+megahit_4215_1-522	Bacteria	Prevotella	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Prevotellaceae;genus:Prevotella
+megahit_4601_30-564	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales

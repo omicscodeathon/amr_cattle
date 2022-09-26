@@ -1,0 +1,795 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Wed Aug 31 11:28:39 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_238_5-229	Bacteria	Brevibacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Brevibacteriaceae;genus:Brevibacterium
+megahit_1158_8345-8949	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_2355_1-283	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_2933_2-441	Bacteria	Ruminococcaceae	family	
+megahit_4051_22-799	Bacteria	Clostridiales	order	
+megahit_4903_2-293	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_4955_1-657	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_4993_2-233	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_5003_2-234	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_5453_1-693	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_5708_1-430	Bacteria	Megamonas	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Negativicutes;order:Selenomonadales;family:Selenomonadaceae;genus:Megamonas
+megahit_5724_2-627	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_5795_1-432	Bacteria	Phascolarctobacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Negativicutes;order:Acidaminococcales;family:Acidaminococcaceae;genus:Phascolarctobacterium
+megahit_6878_2-505	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_7541_1-255	Bacteria	Sutterella	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Sutterellaceae;genus:Sutterella
+megahit_8243_39225-39560	Bacteria	Escherichia/Shigella	genus	
+megahit_9221_6-1437	Bacteria	Brevibacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Brevibacteriaceae;genus:Brevibacterium
+megahit_9823_529-1466	Bacteria	Archaea	superkingdom	superkingdom:Archaea
+megahit_10053_3-302	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_10128_146-708	Bacteria	Coriobacteriaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Coriobacteriia;order:Coriobacteriales;family:Coriobacteriaceae
+megahit_10605_1-375	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_10780_4-518	Bacteria	Rikenellaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Rikenellaceae
+megahit_10963_1-217	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_10965_2-201	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_11191_1-208	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_11234_1-526	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_12225_2-267	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_15038_1-468	Bacteria	Clostridiales	order	
+megahit_15068_1805-2041	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_15588_1-248	Bacteria	Ruminococcaceae	family	
+megahit_15645_4-281	Bacteria	Ruminococcaceae	family	
+megahit_15659_1-247	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_15664_1-454	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_15692_3-206	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_17419_198-441	Bacteria	Pseudoflavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Pseudoflavonifractor
+megahit_18102_2-484	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_18258_1-274	Bacteria	Citrobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae;genus:Citrobacter
+megahit_20597_2-318	Bacteria	Slackia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Coriobacteriia;order:Eggerthellales;family:Eggerthellaceae;genus:Slackia
+megahit_21411_1-201	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_21427_3-322	Bacteria	Clostridiales	order	
+megahit_23344_1-368	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_23368_1-274	Bacteria	Ruminococcus2	genus	
+megahit_23426_211-571	Bacteria	Brachybacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Dermabacteraceae;genus:Brachybacterium
+megahit_23666_3-276	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_23782_3-284	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_24030_2-685	Bacteria	Ruminococcaceae	family	
+megahit_24056_1-444	Bacteria	Oscillibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Oscillibacter
+megahit_24281_3-586	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_24823_924-2436	Bacteria	Stackebrandtia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Glycomycetales;family:Glycomycetaceae;genus:Stackebrandtia
+megahit_24912_1-268	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_26066_3-202	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_26364_49917-50325	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_26589_1-1177	Bacteria	Ruminococcaceae	family	
+megahit_27696_297-640	Bacteria	Odoribacter	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Odoribacteraceae;genus:Odoribacter
+megahit_27909_3-361	Bacteria	Ruminococcaceae	family	
+megahit_28164_2-572	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_29835_156-1691	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_30647_1-319	Bacteria	Clostridiales	order	
+megahit_32573_273-723	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_32851_14-484	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_34543_1-529	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_35816_1-440	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_36630_2-218	Bacteria	Ruminococcaceae	family	
+megahit_37249_2-293	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_37775_4-244	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_38478_2-393	Bacteria	Clostridiales	order	
+megahit_38688_1-840	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_38865_666-2179	Bacteria	Turicibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Turicibacteraceae;genus:Turicibacter
+megahit_39388_350-586	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_39840_290-1290	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_40714_1-712	Bacteria	Butyricicoccus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Clostridiaceae;genus:Butyricicoccus
+megahit_41279_9-731	Bacteria	Butyricicoccus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Clostridiaceae;genus:Butyricicoccus
+megahit_41809_2-423	Bacteria	Brachybacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Dermabacteraceae;genus:Brachybacterium
+megahit_43934_3-443	Bacteria	Ruminococcaceae	family	
+megahit_44382_1-414	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_44458_1-441	Bacteria	Staphylococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Staphylococcaceae;genus:Staphylococcus
+megahit_44756_1-320	Bacteria	Ruminococcaceae	family	
+megahit_45637_1-421	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_46184_18-283	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_47476_185-658	Bacteria	Ruminococcaceae	family	
+megahit_48670_15-226	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_48958_1-343	Bacteria	Ruminococcaceae	family	
+megahit_48998_59-497	Bacteria	Glycomyces	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Glycomycetales;family:Glycomycetaceae;genus:Glycomyces
+megahit_49060_1-334	Bacteria	Ruminococcaceae	family	
+megahit_49145_1465-1722	Bacteria	Clostridiales	order	
+megahit_50247_1-572	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_51154_9-265	Bacteria	Ruminococcaceae	family	
+megahit_51845_1-653	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_52063_2-244	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_52171_1-276	Bacteria	Ruminococcaceae	family	
+megahit_52274_2-320	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_53081_3-314	Bacteria	Flavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Flavonifractor
+megahit_53084_3-219	Bacteria	Ruminococcaceae	family	
+megahit_53106_2-350	Bacteria	Ruminococcaceae	family	
+megahit_54162_3-314	Bacteria	Citrobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae;genus:Citrobacter
+megahit_54203_3-304	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_55345_1-473	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_55432_5447-6438	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_58775_1-216	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_59190_1-282	Bacteria	Clostridia	class	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia
+megahit_59212_1-260	Bacteria	Clostridiales	order	
+megahit_59980_1-308	Bacteria	Oscillibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Oscillibacter
+megahit_59997_21-752	Bacteria	Clostridium XVIII	genus	
+megahit_60007_1-310	Bacteria	Ruminococcaceae	family	
+megahit_60032_1-515	Bacteria	Janibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Intrasporangiaceae;genus:Janibacter
+megahit_60212_2-206	Bacteria	Ruminococcaceae	family	
+megahit_60479_1-302	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_60940_2-553	Bacteria	Clostridiales	order	
+megahit_60968_1-365	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_61114_31-452	Bacteria	Staphylococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Staphylococcaceae;genus:Staphylococcus
+megahit_61515_2-262	Bacteria	Ruminococcaceae	family	
+megahit_62402_1-423	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_63661_1-311	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_66413_4-223	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_66455_15-404	Bacteria	Eisenbergiella	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Eisenbergiella
+megahit_67090_2-266	Bacteria	Flavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Flavonifractor
+megahit_67096_2-250	Bacteria	Ruminococcaceae	family	
+megahit_67185_2-292	Bacteria	Ruminococcaceae	family	
+megahit_69122_1-369	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_69185_1-369	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_69985_97-502	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_71161_2-309	Bacteria	Ruminococcaceae	family	
+megahit_71263_2-353	Bacteria	Streptomyces	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Streptomycetales;family:Streptomycetaceae;genus:Streptomyces
+megahit_74551_2-408	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_75100_13-235	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_75215_2-241	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_76529_226-603	Bacteria	Ruminococcaceae	family	
+megahit_77197_3-326	Bacteria	Ruminococcaceae	family	
+megahit_77234_1-1110	Bacteria	Phascolarctobacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Negativicutes;order:Acidaminococcales;family:Acidaminococcaceae;genus:Phascolarctobacterium
+megahit_77588_26102-26294	Bacteria	Pantoea	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Erwiniaceae;genus:Pantoea
+megahit_77599_1-436	Bacteria	Ruminococcaceae	family	
+megahit_81256_2-261	Bacteria	Clostridia	class	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia
+megahit_81604_377-547	Bacteria	Ruminococcaceae	family	
+megahit_81746_1823-2083	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_82249_2-296	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_82352_1-423	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_82386_1-357	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_84625_1-424	Bacteria	Janibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Intrasporangiaceae;genus:Janibacter
+megahit_84630_142-584	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_85643_86-526	Bacteria	Subdoligranulum	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Subdoligranulum
+megahit_86336_3-358	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_87743_166-472	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_90357_2-441	Bacteria	Ruminococcaceae	family	
+megahit_90947_3-233	Bacteria	Ruminococcaceae	family	
+megahit_91106_6-624	Bacteria	Parabacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Tannerellaceae;genus:Parabacteroides
+megahit_91483_1-251	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_91487_169-1080	Bacteria	Ruminococcaceae	family	
+megahit_92070_1-265	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_92374_611-1051	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_93042_1-241	Bacteria	Clostridium IV	genus	
+megahit_93100_153-393	Bacteria	Clostridium IV	genus	
+megahit_93737_2-313	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_93759_2-326	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_94332_2978-4510	Bacteria	Prevotellaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Prevotellaceae
+megahit_94753_3396-4962	Bacteria	Peptococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Peptococcaceae;genus:Peptococcus
+megahit_97583_1-322	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_97654_1-328	Bacteria	Propionibacteriaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Propionibacteriales;family:Propionibacteriaceae
+megahit_97814_1-415	Bacteria	Lachnospiracea	genus	
+megahit_98087_861-1164	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_98885_4-313	Bacteria	Clostridiales	order	
+megahit_98907_2-874	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_99005_554-713	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_100516_2-481	Bacteria	Ruminococcaceae	family	
+megahit_101568_57-529	Bacteria	Sutterellaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Sutterellaceae
+megahit_102457_2-161	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_102482_1-732	Bacteria	Ruminococcaceae	family	
+megahit_102506_2-328	Bacteria	Oscillibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Oscillibacter
+megahit_102556_3-315	Bacteria	Ruminococcaceae	family	
+megahit_104735_247-489	Bacteria	Clostridiales	order	
+megahit_104856_3-484	Bacteria	Ruminococcaceae	family	
+megahit_105382_1083-1416	Bacteria	Ruminococcaceae	family	
+megahit_107414_1-388	Bacteria	Ruminococcaceae	family	
+megahit_108392_5-432	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_108459_2-273	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_108533_2-246	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_108698_2-683	Bacteria	Enterococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Enterococcaceae;genus:Enterococcus
+megahit_108864_1-257	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_108914_6-293	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_109233_8317-9846	Bacteria	Nocardiopsis	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Streptosporangiales;family:Nocardiopsaceae;genus:Nocardiopsis
+megahit_109673_1-236	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_111288_1-248	Bacteria	Clostridium XlVa	genus	
+megahit_111432_1-662	Bacteria	Eisenbergiella	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Eisenbergiella
+megahit_112484_2-304	Bacteria	Clostridiales	order	
+megahit_113709_1-384	Bacteria	Ruminococcaceae	family	
+megahit_114771_190-529	Bacteria	Clostridium XlVa	genus	
+megahit_115251_2646-4158	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_115966_2-456	Bacteria	Alistipes	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Rikenellaceae;genus:Alistipes
+megahit_116428_2-716	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_116711_3562-3962	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_117174_2-919	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_118489_50-442	Bacteria	Streptomyces	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Streptomycetales;family:Streptomycetaceae;genus:Streptomyces
+megahit_120712_2-300	Bacteria	Lachnospiracea	genus	
+megahit_120739_404-664	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_121895_3-211	Bacteria	Clostridiales	order	
+megahit_122452_479-1464	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_123009_1-347	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_123987_2-213	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_125173_2-642	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_125818_52-472	Bacteria	Root		
+megahit_125857_208-650	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_126060_4-567	Bacteria	Ruminococcaceae	family	
+megahit_128935_341-768	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_129231_1-441	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_129726_573-1094	Bacteria	Porphyromonadaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Porphyromonadaceae
+megahit_130101_1449-2462	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_130946_2-291	Bacteria	Ruminococcaceae	family	
+megahit_131587_654-1669	Bacteria	Enterococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Enterococcaceae;genus:Enterococcus
+megahit_133632_4-363	Bacteria	Phascolarctobacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Negativicutes;order:Acidaminococcales;family:Acidaminococcaceae;genus:Phascolarctobacterium
+megahit_133641_2846-4367	Bacteria	Clostridium XVIII	genus	
+megahit_134450_1-323	Bacteria	Clostridium IV	genus	
+megahit_134563_5-401	Bacteria	Megamonas	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Negativicutes;order:Selenomonadales;family:Selenomonadaceae;genus:Megamonas
+megahit_135168_2-214	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_135208_3-254	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_135824_1-314	Bacteria	Ruminococcaceae	family	
+megahit_136107_3-502	Bacteria	Clostridiales	order	
+megahit_136817_3-324	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_137144_1-286	Bacteria	Ruminococcaceae	family	
+megahit_137158_2-365	Bacteria	Ruminococcaceae	family	
+megahit_137735_2-426	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_138549_3-222	Bacteria	Clostridia	class	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia
+megahit_142788_2-546	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_143219_1-271	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_143508_2278-2533	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_144441_1-247	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_146342_543-782	Bacteria	Ruminococcaceae	family	
+megahit_147134_1-429	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_148104_2-676	Bacteria	Ruminococcaceae	family	
+megahit_148780_1-349	Bacteria	Megamonas	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Negativicutes;order:Selenomonadales;family:Selenomonadaceae;genus:Megamonas
+megahit_149193_2-357	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_149293_327-589	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_151263_1-302	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_151395_59-903	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_151481_1-530	Bacteria	Streptococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Streptococcaceae;genus:Streptococcus
+megahit_152190_212-676	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_152387_2-297	Bacteria	Anaerostipes	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Anaerostipes
+megahit_152585_3-322	Bacteria	Ruminococcaceae	family	
+megahit_153865_3-250	Bacteria	Porphyromonadaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Porphyromonadaceae
+megahit_153977_2-461	Bacteria	Oscillibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Oscillibacter
+megahit_154001_56-481	Bacteria	Porphyromonadaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Porphyromonadaceae
+megahit_154167_2-294	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_154194_1-309	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_154497_1-1170	Bacteria	Odoribacter	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Odoribacteraceae;genus:Odoribacter
+megahit_157576_115-330	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_158974_1700-2200	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_159525_4-281	Bacteria	Brevibacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Brevibacteriaceae;genus:Brevibacterium
+megahit_160773_3-362	Bacteria	Clostridiales	order	
+megahit_160928_341-887	Bacteria	Ruminococcaceae	family	
+megahit_163278_1-324	Bacteria	Ruminococcaceae	family	
+megahit_163310_2-197	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_165295_2-204	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_165570_4-504	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_165608_3-375	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_167050_365-784	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_168458_1-707	Bacteria	Porphyromonadaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Porphyromonadaceae
+megahit_168530_1-264	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_168866_347-504	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_170379_1-287	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_172482_1093-1469	Bacteria	Butyricicoccus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Clostridiaceae;genus:Butyricicoccus
+megahit_172969_1-306	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_173108_78-534	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_173874_5-305	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_174302_1-401	Bacteria	Ruminococcaceae	family	
+megahit_174374_1-1157	Bacteria	Clostridium IV	genus	
+megahit_174875_2-232	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_174878_2-232	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_175050_1-406	Bacteria	Ruminococcaceae	family	
+megahit_175237_113-472	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_175453_1-452	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_177428_2-300	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_177497_25-1390	Bacteria	Methanobrevibacter	genus	superkingdom:Archaea;phylum:Euryarchaeota;clade:Methanomada group;class:Methanobacteria;order:Methanobacteriales;family:Methanobacteriaceae;genus:Methanobrevibacter
+megahit_178006_2-618	Bacteria	Clostridiales	order	
+megahit_178424_1-229	Bacteria	Clostridia	class	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia
+megahit_178510_47-365	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_179814_8-706	Bacteria	Janibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Intrasporangiaceae;genus:Janibacter
+megahit_180253_1-254	Bacteria	Ruminococcaceae	family	
+megahit_180386_1-1212	Bacteria	Faecalibacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Faecalibacterium
+megahit_180779_3-388	Bacteria	Lachnospiracea	genus	
+megahit_180792_2499-3089	Bacteria	Root		
+megahit_180792_3324-4254	Bacteria	Root		
+megahit_181104_1-753	Bacteria	Anaerobacter	genus	
+megahit_181562_4-465	Bacteria	Ruminococcaceae	family	
+megahit_181878_1-283	Bacteria	Isoptericola	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Promicromonosporaceae;genus:Isoptericola
+megahit_181897_1-283	Bacteria	Isoptericola	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Promicromonosporaceae;genus:Isoptericola
+megahit_182919_3-901	Bacteria	Rikenellaceae	family	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Rikenellaceae
+megahit_182979_1-301	Bacteria	Ruminococcaceae	family	
+megahit_183794_4-396	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_185452_2-229	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_185651_1-199	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_185768_2-608	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_186575_2-255	Bacteria	Clostridiales	order	
+megahit_186793_2-602	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_186818_3-336	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_187293_66-251	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_187631_220-1279	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_189157_1-704	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_189820_1-858	Bacteria	Ruminococcaceae	family	
+megahit_189862_1-215	Bacteria	Ruminococcus2	genus	
+megahit_189897_15-238	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_190928_2-618	Bacteria	Ruminococcaceae	family	
+megahit_191234_2-1284	Bacteria	Ruminococcaceae	family	
+megahit_191917_2-375	Bacteria	Ruminococcaceae	family	
+megahit_193876_1-239	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_194270_2-393	Bacteria	Clostridiales	order	
+megahit_195317_6-657	Bacteria	Alistipes	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Rikenellaceae;genus:Alistipes
+megahit_199674_1-379	Bacteria	Pseudoflavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Pseudoflavonifractor
+megahit_199717_1-366	Bacteria	Pseudoflavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Pseudoflavonifractor
+megahit_199859_126-440	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_200433_1-227	Bacteria	Ruminococcus2	genus	
+megahit_201214_2-235	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_201753_2-404	Bacteria	Clostridium IV	genus	
+megahit_203891_2-234	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_204129_7-566	Bacteria	Clostridiales	order	
+megahit_207020_1-250	Bacteria	Ruminococcaceae	family	
+megahit_207204_1-669	Bacteria	Pseudoflavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Pseudoflavonifractor
+megahit_207853_25-1013	Bacteria	Barnesiella	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Barnesiellaceae;genus:Barnesiella
+megahit_208317_1-219	Bacteria	Streptophyta	genus	superkingdom:Eukaryota;kingdom:Viridiplantae;phylum:Streptophyta
+megahit_212318_1-200	Bacteria	Ruminococcaceae	family	
+megahit_214869_2-327	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_214878_2-273	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_218159_1-604	Bacteria	Clostridium IV	genus	
+megahit_218601_10-584	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_219184_168-400	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_219406_3-1109	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_220610_9-199	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_224130_2-406	Bacteria	Butyricicoccus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Clostridiaceae;genus:Butyricicoccus
+megahit_225770_1-391	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_225864_2-317	Bacteria	Ruminococcus2	genus	
+megahit_226007_17-239	Bacteria	Clostridiales	order	
+megahit_229531_2-201	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_229656_5-478	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_230492_3-357	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_231407_3539-3827	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_231619_2-423	Bacteria	Staphylococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Staphylococcaceae;genus:Staphylococcus
+megahit_232131_1-572	Bacteria	Jeotgalicoccus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Staphylococcaceae;genus:Jeotgalicoccus
+megahit_232140_1677-1957	Bacteria	Parabacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Tannerellaceae;genus:Parabacteroides
+megahit_232143_1-549	Bacteria	Ruminococcaceae	family	
+megahit_233058_1-289	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_233188_207-452	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_234304_1-381	Bacteria	Campylobacterales	order	superkingdom:Bacteria;phylum:Proteobacteria;subphylum:delta/epsilon subdivisions;class:Epsilonproteobacteria;order:Campylobacterales
+megahit_236877_2-397	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_237715_69-291	Bacteria	Clostridiales	order	
+megahit_237756_69-423	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_237946_2-215	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_238101_1-409	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_239545_2-266	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_239571_2-233	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_239841_1-206	Bacteria	Ruminococcaceae	family	
+megahit_239882_323-528	Bacteria	Ruminococcaceae	family	
+megahit_240405_2-637	Bacteria	Clostridiales	order	
+megahit_240408_1-234	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_241529_2-324	Bacteria	Clostridiales	order	
+megahit_241653_2-363	Bacteria	Clostridiales	order	
+megahit_242180_2-688	Bacteria	Isoptericola	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Promicromonosporaceae;genus:Isoptericola
+megahit_242217_2-218	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_242704_1-338	Bacteria	Ruminococcaceae	family	
+megahit_242713_1-361	Bacteria	Ruminococcaceae	family	
+megahit_245993_287-1789	Bacteria	Slackia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Coriobacteriia;order:Eggerthellales;family:Eggerthellaceae;genus:Slackia
+megahit_246342_2-363	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_246454_10-289	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_246669_307-623	Bacteria	Helicobacter	genus	superkingdom:Bacteria;phylum:Proteobacteria;subphylum:delta/epsilon subdivisions;class:Epsilonproteobacteria;order:Campylobacterales;family:Helicobacteraceae;genus:Helicobacter
+megahit_246931_1-399	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_248821_3-221	Bacteria	Clostridiales	order	
+megahit_248829_1-420	Bacteria	Clostridiales	order	
+megahit_249426_1-469	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_251735_4504-4727	Bacteria	Methanobacteriaceae	family	superkingdom:Archaea;phylum:Euryarchaeota;clade:Methanomada group;class:Methanobacteria;order:Methanobacteriales;family:Methanobacteriaceae
+megahit_251756_2-191	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_252041_8-231	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_252047_1-303	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_252855_1-302	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_253390_134-765	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_256343_1-328	Bacteria	Ruminococcaceae	family	
+megahit_256442_3695-5110	Bacteria	Cloacibacillus	genus	superkingdom:Bacteria;phylum:Synergistetes;class:Synergistia;order:Synergistales;family:Synergistaceae;genus:Cloacibacillus
+megahit_258192_3440-3735	Bacteria	Phascolarctobacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Negativicutes;order:Acidaminococcales;family:Acidaminococcaceae;genus:Phascolarctobacterium
+megahit_258246_3-235	Bacteria	Ruminococcaceae	family	
+megahit_258422_2-441	Bacteria	Ruminococcaceae	family	
+megahit_259328_1134-1513	Bacteria	Clostridiales	order	
+megahit_259366_1-304	Bacteria	Sporobacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Sporobacter
+megahit_260517_426-616	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_260942_217-617	Bacteria	Clostridiales	order	
+megahit_261010_2-569	Bacteria	Eisenbergiella	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Eisenbergiella
+megahit_261228_1-418	Bacteria	Oscillibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Oscillibacter
+megahit_261232_1-252	Bacteria	Ruminococcaceae	family	
+megahit_261421_110-525	Bacteria	Clostridium XlVa	genus	
+megahit_261856_1-421	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_262923_1-261	Bacteria	Ruminococcaceae	family	
+megahit_263143_619-803	Bacteria	Succinatimonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Aeromonadales;family:Succinivibrionaceae;genus:Succinatimonas
+megahit_263175_103-386	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_263843_1-245	Bacteria	Brachybacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Dermabacteraceae;genus:Brachybacterium
+megahit_263912_344-940	Bacteria	Clostridiales	order	
+megahit_264302_3-207	Bacteria	Clostridiales	order	
+megahit_264479_1-378	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_267788_8067-9580	Bacteria	Ruminococcaceae	family	
+megahit_270102_276-616	Bacteria	Ruminococcaceae	family	
+megahit_270164_3-276	Bacteria	Clostridiales	order	
+megahit_270223_3-276	Bacteria	Clostridiales	order	
+megahit_270259_1-234	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_270276_2-294	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_270350_2-457	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_271348_2-328	Bacteria	Clostridiales	order	
+megahit_271412_2-251	Bacteria	Ruminococcaceae	family	
+megahit_271650_1-469	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_272520_2-372	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_273179_2-270	Bacteria	Clostridiales	order	
+megahit_275298_20-312	Bacteria	Root		
+megahit_276978_2-435	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_277660_3-815	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_277747_2-566	Bacteria	Clostridiales	order	
+megahit_279452_1-270	Bacteria	Clostridiales	order	
+megahit_279780_2019-3206	Bacteria	Parabacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Tannerellaceae;genus:Parabacteroides
+megahit_281571_1-339	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_281592_3-226	Bacteria	Ruminococcaceae	family	
+megahit_281842_1-248	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_281852_2-250	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_283045_4169-4404	Bacteria	Clostridiales	order	
+megahit_283102_764-999	Bacteria	Clostridiales	order	
+megahit_286895_2-321	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_288034_3-233	Bacteria	Clostridiales	order	
+megahit_289110_92-971	Bacteria	Desulfovibrio	genus	superkingdom:Bacteria;phylum:Proteobacteria;subphylum:delta/epsilon subdivisions;class:Deltaproteobacteria;order:Desulfovibrionales;family:Desulfovibrionaceae;genus:Desulfovibrio
+megahit_289213_2-419	Bacteria	Fusicatenibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Fusicatenibacter
+megahit_289583_2-215	Bacteria	Ruminococcaceae	family	
+megahit_291996_563-791	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_293141_2-328	Bacteria	Desulfovibrionaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;subphylum:delta/epsilon subdivisions;class:Deltaproteobacteria;order:Desulfovibrionales;family:Desulfovibrionaceae
+megahit_293477_89-323	Bacteria	Brevibacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Brevibacteriaceae;genus:Brevibacterium
+megahit_294331_586-793	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_295825_231-501	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_295853_1-279	Bacteria	Catenibacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Coprobacillaceae;genus:Catenibacterium
+megahit_296676_2-315	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_300782_3821-4277	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_301046_219-390	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_303778_717-1058	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_305277_1-202	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_305311_2-252	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_305636_3-315	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_305751_4-298	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_306151_1-357	Bacteria	Subdoligranulum	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Subdoligranulum
+megahit_306651_1-342	Bacteria	Ruminococcaceae	family	
+megahit_306705_2-424	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_306712_2-300	Bacteria	Ruminococcaceae	family	
+megahit_306718_1-245	Bacteria	Lactobacillales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales
+megahit_306836_23-379	Bacteria	Ruminococcaceae	family	
+megahit_307479_1-162	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_308003_1-349	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_308422_2-428	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_308504_1-416	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_308850_1-345	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_309006_1-305	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_309859_4-282	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_311067_260-519	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_311810_2-207	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_314173_1-347	Bacteria	Clostridiales	order	
+megahit_315759_1-246	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_316051_1617-1945	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_316227_1-324	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_316243_1-266	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_318142_14-344	Bacteria	Root		
+megahit_318251_1-340	Bacteria	Ruminococcus2	genus	
+megahit_319586_1-389	Bacteria	Ruminococcaceae	family	
+megahit_320762_2-315	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_321314_1-314	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_321540_1-253	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_321549_2-251	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_321582_1-346	Bacteria	Nocardiopsis	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Streptosporangiales;family:Nocardiopsaceae;genus:Nocardiopsis
+megahit_324859_14-271	Bacteria	Ruminococcaceae	family	
+megahit_326607_2-383	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_328001_2-916	Bacteria	Parasutterella	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Sutterellaceae;genus:Parasutterella
+megahit_329661_3-271	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_331940_95-300	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_332023_1-326	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_333221_1-671	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_334619_2-233	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_335496_700-1304	Bacteria	Clostridium XVIII	genus	
+megahit_335856_2-241	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_336215_68-424	Bacteria	Ruminococcaceae	family	
+megahit_336237_1-249	Bacteria	Pseudoflavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Pseudoflavonifractor
+megahit_336275_2-307	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_336710_1-292	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_336964_15-836	Bacteria	Glycomyces	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Glycomycetales;family:Glycomycetaceae;genus:Glycomyces
+megahit_337027_3-247	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_337034_3-247	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_337066_2-362	Bacteria	Clostridiales	order	
+megahit_338177_3-264	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_338202_1-276	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_338508_1216-2121	Bacteria	Anaerovorax	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;no rank:Eubacteriales incertae sedis;family:Eubacteriales Family XIII. Incertae Sedis;genus:Anaerovorax
+megahit_339269_2057-3587	Bacteria	Clostridiales	order	
+megahit_340577_208-461	Bacteria	Streptococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Streptococcaceae;genus:Streptococcus
+megahit_341318_616-959	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_342435_150-1687	Bacteria	Escherichia/Shigella	genus	
+megahit_342671_28-522	Bacteria	Ruminococcaceae	family	
+megahit_344445_225-895	Bacteria	Alistipes	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Rikenellaceae;genus:Alistipes
+megahit_345228_1-320	Bacteria	Ruminococcaceae	family	
+megahit_345456_1-249	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_345621_11-390	Bacteria	Ruminococcaceae	family	
+megahit_345888_295-519	Bacteria	Methanobacteriaceae	family	superkingdom:Archaea;phylum:Euryarchaeota;clade:Methanomada group;class:Methanobacteria;order:Methanobacteriales;family:Methanobacteriaceae
+megahit_346164_1-335	Bacteria	Ruminococcaceae	family	
+megahit_346700_1-533	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_346912_157-952	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_349656_22-235	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_350053_2-200	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_350585_401-1901	Bacteria	Romboutsia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Peptostreptococcaceae;genus:Romboutsia
+megahit_351295_17-427	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_351662_1-345	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_352060_2-321	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_352112_2-1203	Bacteria	Streptophyta	genus	superkingdom:Eukaryota;kingdom:Viridiplantae;phylum:Streptophyta
+megahit_353251_484-840	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_355059_1-297	Bacteria	Ruminococcaceae	family	
+megahit_356099_191-455	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_356471_5-229	Bacteria	Brevibacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Brevibacteriaceae;genus:Brevibacterium
+megahit_356777_1-299	Bacteria	Ruminococcaceae	family	
+megahit_356875_1-503	Bacteria	Ruminococcaceae	family	
+megahit_357220_1-289	Bacteria	Ruminococcaceae	family	
+megahit_357975_2-478	Bacteria	Ruminococcaceae	family	
+megahit_358038_3-437	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_359424_1-302	Bacteria	Ruminococcaceae	family	
+megahit_359649_219-606	Bacteria	Clostridium XlVa	genus	
+megahit_361164_343-977	Bacteria	Coriobacteriaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Coriobacteriia;order:Coriobacteriales;family:Coriobacteriaceae
+megahit_361447_12-234	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_361574_1-507	Bacteria	Ruminococcaceae	family	
+megahit_361607_1-291	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_361612_2-318	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_362303_11-381	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_362318_5-285	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_362633_2-283	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_362845_2-207	Bacteria	Ruminococcaceae	family	
+megahit_363294_1-261	Bacteria	Gemmiger	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;no rank:Eubacteriales incertae sedis;genus:Gemmiger
+megahit_363831_1-551	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_363925_4-429	Bacteria	Ruminococcaceae	family	
+megahit_363958_1-310	Bacteria	Intestinimonas	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;no rank:Eubacteriales incertae sedis;genus:Intestinimonas
+megahit_364288_3-243	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_364409_1-264	Bacteria	Ruminococcaceae	family	
+megahit_365004_3-600	Bacteria	Brachybacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Dermabacteraceae;genus:Brachybacterium
+megahit_365032_1-273	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_366656_1-418	Bacteria	Lactobacillales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales
+megahit_367660_2-286	Bacteria	Parabacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Tannerellaceae;genus:Parabacteroides
+megahit_368152_2-216	Bacteria	Ruminococcaceae	family	
+megahit_368214_2-306	Bacteria	Ruminococcaceae	family	
+megahit_368888_1-739	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_369226_846-1084	Bacteria	Clostridiales	order	
+megahit_369462_10-321	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_369492_1-606	Bacteria	Clostridia	class	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia
+megahit_369675_485-696	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_370590_2-305	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_370637_4-337	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_370665_1-281	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_371152_4-245	Bacteria	Ruminococcus2	genus	
+megahit_374530_2-407	Bacteria	Flavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Flavonifractor
+megahit_374608_1-307	Bacteria	Flavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Flavonifractor
+megahit_376376_1-251	Bacteria	Subdoligranulum	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Subdoligranulum
+megahit_376393_1-247	Bacteria	Subdoligranulum	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Subdoligranulum
+megahit_376529_3-798	Bacteria	Isoptericola	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Promicromonosporaceae;genus:Isoptericola
+megahit_376593_1-436	Bacteria	Clostridiales	order	
+megahit_377024_4-197	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_377493_261-521	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_378544_1-362	Bacteria	Ruminococcaceae	family	
+megahit_380136_13-389	Bacteria	Clostridiales	order	
+megahit_380823_2-966	Bacteria	Staphylococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Staphylococcaceae;genus:Staphylococcus
+megahit_382064_2-261	Bacteria	Clostridiales	order	
+megahit_382508_148-391	Bacteria	Pseudoflavonifractor	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Pseudoflavonifractor
+megahit_383485_85-265	Bacteria	Ruminococcaceae	family	
+megahit_383541_2-570	Bacteria	Butyricicoccus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Clostridiaceae;genus:Butyricicoccus
+megahit_384266_1-549	Bacteria	Ruminococcaceae	family	
+megahit_384276_1-215	Bacteria	Ruminococcaceae	family	
+megahit_384279_2-300	Bacteria	Staphylococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Staphylococcaceae;genus:Staphylococcus
+megahit_384936_4-303	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_385237_2-354	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_385254_2-280	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_385316_2-283	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_385402_2-837	Bacteria	Parabacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Tannerellaceae;genus:Parabacteroides
+megahit_386136_3-677	Bacteria	Faecalitalea	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae;genus:Faecalitalea
+megahit_386169_3-437	Bacteria	Clostridiales	order	
+megahit_387756_2-1110	Bacteria	Desulfovibrionaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;subphylum:delta/epsilon subdivisions;class:Deltaproteobacteria;order:Desulfovibrionales;family:Desulfovibrionaceae
+megahit_389878_1-282	Bacteria	Ruminococcaceae	family	
+megahit_389887_2-259	Bacteria	Ruminococcaceae	family	
+megahit_391287_1-210	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_392164_1-314	Bacteria	Ruminococcaceae	family	
+megahit_392201_2-403	Bacteria	Ruminococcaceae	family	
+megahit_393733_1-400	Bacteria	Anaerostipes	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Anaerostipes
+megahit_394557_1-377	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_395208_3-438	Bacteria	Alistipes	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Rikenellaceae;genus:Alistipes
+megahit_397305_645-1061	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_398691_1-211	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_399953_3-564	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_401458_1-357	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_402711_3-234	Bacteria	Clostridiales	order	
+megahit_403743_1-631	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_406295_2-177	Bacteria	Methanobacteriaceae	family	superkingdom:Archaea;phylum:Euryarchaeota;clade:Methanomada group;class:Methanobacteria;order:Methanobacteriales;family:Methanobacteriaceae
+megahit_406523_2-281	Bacteria	Ruminococcaceae	family	
+megahit_407892_1-629	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_407914_1-257	Bacteria	Ruminococcaceae	family	
+megahit_408664_10-174	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_409210_3-510	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_409703_30-225	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_410534_2-555	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_410927_1-233	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_412467_2-228	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_417825_2-1017	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_418230_1-218	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_419824_3-206	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_420017_1-281	Bacteria	Ruminococcaceae	family	
+megahit_420319_3-421	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_421091_2-323	Bacteria	Ruminococcaceae	family	
+megahit_421095_1-277	Bacteria	Ruminococcaceae	family	
+megahit_421436_2-421	Bacteria	Aeriscardovia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Bifidobacteriales;family:Bifidobacteriaceae;genus:Aeriscardovia
+megahit_421891_153-478	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_421951_1-842	Bacteria	Anaerostipes	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Anaerostipes
+megahit_422012_2-316	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_422452_306-513	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_424168_1-202	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_424522_2-381	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_425655_1-1000	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_428770_2-236	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_429733_5-456	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_430208_1-348	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_430582_1-423	Bacteria	Anaerostipes	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Anaerostipes
+megahit_430719_1-304	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_430801_1-172	Bacteria	Actinobacteria	class	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria
+megahit_431968_2-446	Bacteria	Paraprevotella	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Prevotellaceae;genus:Paraprevotella
+megahit_432681_2-207	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_434389_1-577	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_435060_3-550	Bacteria	Clostridiales	order	
+megahit_435782_681-870	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_437877_206-541	Bacteria	Ruminococcaceae	family	
+megahit_438937_1-566	Bacteria	Clostridiales	order	
+megahit_439035_1-328	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_439126_1-270	Bacteria	Ruminococcaceae	family	
+megahit_439947_546-822	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_440271_407-643	Bacteria	Oscillibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Oscillibacter
+megahit_440338_115-351	Bacteria	Oscillibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Oscillibacter
+megahit_441306_3-299	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_442472_1-593	Bacteria	Ruminococcaceae	family	
+megahit_442853_2-294	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_442877_3-308	Bacteria	Clostridia	class	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia
+megahit_442951_203-615	Bacteria	Clostridiales	order	
+megahit_443058_410-831	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_443437_148-684	Bacteria	Clostridium XVIII	genus	
+megahit_444753_2-265	Bacteria	Nocardiopsis	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Streptosporangiales;family:Nocardiopsaceae;genus:Nocardiopsis
+megahit_444947_3-278	Bacteria	Holdemania	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae;genus:Holdemania
+megahit_447597_2-248	Bacteria	Ruminococcaceae	family	
+megahit_449159_1-167	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_450729_297-691	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_450784_2-292	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_451760_1-321	Bacteria	Parabacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Tannerellaceae;genus:Parabacteroides
+megahit_451789_2-281	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_451832_1-283	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_452048_1-383	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_452972_1-258	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_453802_1694-2149	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_454216_1-213	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_454225_2-586	Bacteria	Jeotgalicoccus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Staphylococcaceae;genus:Jeotgalicoccus
+megahit_454477_1627-2081	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_456014_211-865	Bacteria	Barnesiella	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Barnesiellaceae;genus:Barnesiella
+megahit_457318_1-183	Bacteria	Clostridium XlVa	genus	
+megahit_457722_211-442	Bacteria	Ruminococcaceae	family	
+megahit_458913_156-383	Bacteria	Ruminococcaceae	family	
+megahit_459008_1-228	Bacteria	Ruminococcaceae	family	
+megahit_459154_1-228	Bacteria	Ruminococcaceae	family	
+megahit_459232_1-228	Bacteria	Ruminococcaceae	family	
+megahit_459312_2-505	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_459324_62-289	Bacteria	Ruminococcaceae	family	
+megahit_459723_1-372	Bacteria	Ruminococcaceae	family	
+megahit_460049_666-885	Bacteria	Clostridium XVIII	genus	
+megahit_460414_1-452	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_460469_3-339	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_460496_1-656	Bacteria	Brachybacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Micrococcales;family:Dermabacteraceae;genus:Brachybacterium
+megahit_460534_1-283	Bacteria	Actinomycetales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Actinomycetales
+megahit_460874_5-469	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_461226_218-1222	Bacteria	Clostridiales	order	
+megahit_461551_2-1288	Bacteria	Corynebacterium	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Corynebacteriales;family:Corynebacteriaceae;genus:Corynebacterium
+megahit_461885_21-381	Bacteria	Clostridiales	order	
+megahit_462326_1-836	Bacteria	Firmicutes	phylum	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes
+megahit_463248_5-220	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_467687_341-722	Bacteria	Subdoligranulum	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Subdoligranulum
+megahit_467860_1-215	Bacteria	Ruminococcaceae	family	
+megahit_469422_2-270	Bacteria	Clostridiales	order	
+megahit_470083_2-403	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_471125_6051-6430	Bacteria	Butyricicoccus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Clostridiaceae;genus:Butyricicoccus
+megahit_471172_1-252	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_471247_1-469	Bacteria	Clostridium XlVa	genus	
+megahit_471281_1-252	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_474025_3-719	Bacteria	Streptomyces	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Streptomycetales;family:Streptomycetaceae;genus:Streptomyces
+megahit_474099_3-382	Bacteria	Streptomyces	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Actinomycetia;order:Streptomycetales;family:Streptomycetaceae;genus:Streptomyces
+megahit_477922_1-416	Bacteria	Ruminococcaceae	family	
+megahit_477924_1-312	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_479616_51-392	Bacteria	Clostridium XVIII	genus	
+megahit_479684_1-283	Bacteria	Intestinimonas	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;no rank:Eubacteriales incertae sedis;genus:Intestinimonas
+megahit_480375_2-449	Bacteria	Proteus	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Morganellaceae;genus:Proteus
+megahit_480971_1-298	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_481262_4-386	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_482357_2-308	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_483467_2-205	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_483748_38-530	Bacteria	Slackia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Actinobacteria;class:Coriobacteriia;order:Eggerthellales;family:Eggerthellaceae;genus:Slackia
+megahit_484335_37-650	Bacteria	Enterococcus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Enterococcaceae;genus:Enterococcus
+megahit_484621_17-246	Bacteria	Ruminococcaceae	family	
+megahit_484819_2-319	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_485155_218-509	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_489367_2-269	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_489417_1-250	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_490239_1-621	Bacteria	Gallibacterium	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pasteurellales;family:Pasteurellaceae;genus:Gallibacterium
+megahit_490388_1-257	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_492426_1-382	Bacteria	Ruminococcaceae	family	
+megahit_492930_3-293	Bacteria	Blautia	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae;genus:Blautia
+megahit_494939_1-162	Bacteria	Lactobacillales	order	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales
+megahit_495364_68-230	Bacteria	Ruminococcaceae	family	
+megahit_496846_2-472	Bacteria	Clostridiales	order	
+megahit_496907_1-283	Bacteria	Ruminococcaceae	family	
+megahit_498547_3-655	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_500274_276-498	Bacteria	Ruminococcaceae	family	
+megahit_500683_1-668	Bacteria	Clostridiales	order	
+megahit_501458_1-318	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_501476_3-359	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_502367_4-351	Bacteria	Enterobacteriaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Enterobacterales;family:Enterobacteriaceae
+megahit_503669_2-576	Bacteria	Oscillibacter	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Oscillospiraceae;genus:Oscillibacter
+megahit_504136_3-248	Bacteria	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_507655_1-240	Bacteria	Clostridiales	order	
+megahit_507942_1-438	Bacteria	Lactobacillus	genus	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Lactobacillales;family:Lactobacillaceae;genus:Lactobacillus
+megahit_9823_23-296	Archaea	Root		
+megahit_90251_4-162	Archaea	Methanocorpusculum	genus	superkingdom:Archaea;phylum:Euryarchaeota;clade:Stenosarchaea group;class:Methanomicrobia;order:Methanomicrobiales;family:Methanocorpusculaceae;genus:Methanocorpusculum
+megahit_145483_2-175	Archaea	Root		
+megahit_159781_245-421	Archaea	Methanomassiliicoccus	genus	superkingdom:Archaea;phylum:Candidatus Thermoplasmatota;class:Thermoplasmata;order:Methanomassiliicoccales;family:Methanomassiliicoccaceae;genus:Methanomassiliicoccus
+megahit_390397_1769-2232	Archaea	Root		
+megahit_493363_10-232	Archaea	Root		
+megahit_4700_55-238	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_7213_4-381	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_13412_85-369	Mitochondrial	Root		
+megahit_63378_46-272	Mitochondrial	Root		
+megahit_67205_24-234	Mitochondrial	Root		
+megahit_67226_9-268	Mitochondrial	Root		
+megahit_73997_3-170	Mitochondrial	Root		
+megahit_83831_2-191	Mitochondrial	Root		
+megahit_88789_18-203	Mitochondrial	Root		
+megahit_89767_19-192	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_102724_1-177	Mitochondrial	Root		
+megahit_102801_1-178	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_102818_1-178	Mitochondrial	Root		
+megahit_107079_23-194	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_115579_25-270	Mitochondrial	Root		
+megahit_115657_3-249	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_119855_1-183	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_122223_49-224	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_124463_3-186	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_130746_6-259	Mitochondrial	Root		
+megahit_133653_1-197	Mitochondrial	Root		
+megahit_136417_71-252	Mitochondrial	Root		
+megahit_143923_37-223	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_154202_37-234	Mitochondrial	Root		
+megahit_155293_13-211	Mitochondrial	Root		
+megahit_158175_38-223	Mitochondrial	Root		
+megahit_164462_9-241	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_164473_9-241	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_170724_10-209	Mitochondrial	Root		
+megahit_170788_3-202	Mitochondrial	Root		
+megahit_175548_62-250	Mitochondrial	Root		
+megahit_187421_13-212	Mitochondrial	Root		
+megahit_189255_2-266	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_189391_18-191	Mitochondrial	Root		
+megahit_194324_4-165	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_197263_9-178	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_203256_49-282	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_211472_67-229	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_226688_4-185	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_242592_2-212	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_253096_3-244	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_278611_3-188	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_288941_3-196	Mitochondrial	Root		
+megahit_289047_3-186	Mitochondrial	Root		
+megahit_296618_37-265	Mitochondrial	Root		
+megahit_301709_7-187	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_308882_1-252	Mitochondrial	Root		
+megahit_320707_4-806	Mitochondrial	Root		
+megahit_333109_62-243	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_333124_62-243	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_338313_14-189	Mitochondrial	Root		
+megahit_339665_42-275	Mitochondrial	Root		
+megahit_345896_10-284	Mitochondrial	Root		
+megahit_348389_41-224	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_363108_10-220	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_369512_10-206	Mitochondrial	Root		
+megahit_380232_21-223	Mitochondrial	Root		
+megahit_380314_29-281	Mitochondrial	Root		
+megahit_386145_6-203	Mitochondrial	Root		
+megahit_386798_76-247	Mitochondrial	Root		
+megahit_386809_37-208	Mitochondrial	Root		
+megahit_395127_1-162	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_396105_2-192	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_398249_1-198	Mitochondrial	Root		
+megahit_425179_7-188	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_428231_23-209	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_457502_29-221	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_471196_46-299	Mitochondrial	Root		
+megahit_479798_40-215	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_481497_6-192	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_484159_18-202	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria
+megahit_496355_114-271	Mitochondrial	Root		
+megahit_501658_2-170	Mitochondrial	Bacteria	superkingdom	superkingdom:Bacteria

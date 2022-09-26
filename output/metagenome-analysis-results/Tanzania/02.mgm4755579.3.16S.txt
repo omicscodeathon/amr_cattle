@@ -1,0 +1,21 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Tue Sep  6 10:06:02 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_1427_2-413	Bacteria	Erysipelotrichaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Erysipelotrichia;order:Erysipelotrichales;family:Erysipelotrichaceae
+megahit_1891_1-389	Bacteria	Sphingobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Sphingobacteriia;order:Sphingobacteriales;family:Sphingobacteriaceae;genus:Sphingobacterium
+megahit_2246_235-787	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_2490_1-348	Bacteria	Pedobacter	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Sphingobacteriia;order:Sphingobacteriales;family:Sphingobacteriaceae;genus:Pedobacter
+megahit_2616_1-647	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_3097_1-387	Bacteria	Oxalobacteraceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Oxalobacteraceae
+megahit_3277_1914-3445	Bacteria	Pseudomonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae;genus:Pseudomonas
+megahit_4946_80-440	Bacteria	Janthinobacterium	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Oxalobacteraceae;genus:Janthinobacterium
+megahit_5189_5-359	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae
+megahit_5258_2-420	Bacteria	Chryseobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Weeksellaceae;no rank:Chryseobacterium group;genus:Chryseobacterium
+megahit_5592_4-703	Bacteria	Comamonadaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae
+megahit_6130_1-445	Bacteria	Clostridiales	order	
+megahit_6388_1-774	Bacteria	Chryseobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Flavobacteriia;order:Flavobacteriales;family:Weeksellaceae;no rank:Chryseobacterium group;genus:Chryseobacterium
+megahit_7775_12-994	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_7808_4-314	Bacteria	Sphingobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Sphingobacteriia;order:Sphingobacteriales;family:Sphingobacteriaceae;genus:Sphingobacterium
+megahit_9877_4-1015	Bacteria	Janthinobacterium	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Oxalobacteraceae;genus:Janthinobacterium
+megahit_10477_1-502	Bacteria	Acidovorax	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Comamonadaceae;genus:Acidovorax
+megahit_11469_167-646	Bacteria	Sphingobacterium	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Sphingobacteriia;order:Sphingobacteriales;family:Sphingobacteriaceae;genus:Sphingobacterium
+megahit_11607_200-388	Bacteria	Lachnospiraceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Clostridia;order:Eubacteriales;family:Lachnospiraceae

@@ -1,0 +1,70 @@
+# Created by /opt/SqueezeMeta-1.5.2/scripts/21.stats.pl (SqueezeMeta), Thu Sep  1 08:04:02 2022
+# Run started for Ug_ERR1950666, Wed Aug 31 08:27:52 2022
+
+# Parameters
+Assembler: megahit
+Min length of contigs: 200
+Max evalue for Diamond search: 
+Min identity for Diamond COG/KEGG search: 
+
+#------------------- Statistics on reads
+#	Assembly	Ug_ERR1950666
+Number of reads	43291382	43291382
+Number of bases	6493707300	6493707300
+
+#------------------- Statistics on contigs
+#	Assembly
+Number of contigs	508727
+Total length	445874172
+Longest contig	242324
+Shortest contig	200
+N50	1083
+N90	382
+Contigs at superkingdom (k) rank	471161 (92.6%), in 4 superkingdoms
+Contigs at phylum (p) rank	459529 (90.3%), in 51 phyla
+Contigs at class (c) rank	437008 (85.9%), in 58 classes
+Contigs at order (o) rank	389988 (76.7%), in 119 orders
+Contigs at family (f) rank	259819 (51.1%), in 196 families
+Contigs at genus (g) rank	242412 (47.7%), in 618 genera
+Contigs at species (s) rank	122702 (24.1%), in 1116 species
+Congruent	508025 (99.9%)
+Disparity >0	703 (0.1%)
+Disparity >= 0.25	488 (0.1%)
+
+Most abundant taxa	Ug_ERR1950666
+superkingdom	Bacteria
+phylum	Firmicutes
+class	Gammaproteobacteria
+order	Enterobacterales
+family	Enterobacteriaceae
+genus	Escherichia
+species	Escherichia coli
+
+#------------------- Statistics on ORFs
+#	Assembly	Ug_ERR1950666
+Number of ORFs	801717	797700
+Number of rRNAs	1827	1814
+Number of tRNAs/tmRNAs	4770	4755
+ORFs by Aragorn	4770	4755
+ORFs by Prodigal	795120	791131
+ORFs by barrnap	1827	1814
+Orphans (no hits)	59912	59505
+No tax assigned (with hits)	12926	12873
+KEGG annotations	448767	446663
+COG annotations	631532	628492
+Pfam annotations	369830	368919
+
+#------------------- Statistics on bins
+#	DAS
+Number of bins	94
+Complete >= 50%	38
+Complete >= 75%	20
+Complete >= 90%	3
+Contamination < 10%	62
+Contamination >= 50%	2
+Congruent bins	26
+Disparity >0	68
+Disparity >= 0.25	34
+Hi-qual bins (>90% complete,<10% contam)	0
+Good-qual bins (>75% complete,<10% contam)	6
+

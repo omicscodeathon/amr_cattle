@@ -1,0 +1,10 @@
+#-- Created by /opt/SqueezeMeta-1.5.2/scripts/02.rnas.pl, Tue Sep  6 08:59:51 2022
+# ORF	Model	Last tax	Rank	Full tax
+megahit_1299_1-320	Bacteria	Pseudomonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae;genus:Pseudomonas
+megahit_1982_1-337	Bacteria	Planococcaceae	family	superkingdom:Bacteria;clade:Terrabacteria group;phylum:Firmicutes;class:Bacilli;order:Bacillales;family:Planococcaceae
+megahit_2120_179-445	Bacteria	Clostridiales	order	
+megahit_2210_1-355	Bacteria	Pseudomonas	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae;genus:Pseudomonas
+megahit_2723_15-762	Bacteria	Bacteroides	genus	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales;family:Bacteroidaceae;genus:Bacteroides
+megahit_3017_20-359	Bacteria	Bacteroidales	order	superkingdom:Bacteria;clade:FCB group;clade:Bacteroidetes/Chlorobi group;phylum:Bacteroidetes;class:Bacteroidia;order:Bacteroidales
+megahit_4376_222-1748	Bacteria	Janthinobacterium	genus	superkingdom:Bacteria;phylum:Proteobacteria;class:Betaproteobacteria;order:Burkholderiales;family:Oxalobacteraceae;genus:Janthinobacterium
+megahit_4391_2-365	Bacteria	Pseudomonadaceae	family	superkingdom:Bacteria;phylum:Proteobacteria;class:Gammaproteobacteria;order:Pseudomonadales;family:Pseudomonadaceae

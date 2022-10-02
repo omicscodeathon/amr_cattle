@@ -18,7 +18,7 @@ The emergence of antimicrobial resistance (AMR) is a major global public health 
 
 ## Workflow
 
-![Workflow](https://user-images.githubusercontent.com/57720624/188499288-a23d8c36-c717-4e60-b564-e6c8060e0334.png)
+![Workflow](https://user-images.githubusercontent.com/85280529/193458341-08624b89-e45a-43df-bbf4-9838ada0d620.png)
 
 ## Team Members
 1. [Kauthar M. Omar](https://github.com/Kauthar-Omar) - Team Lead

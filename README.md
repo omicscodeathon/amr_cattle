@@ -16,8 +16,6 @@ The emergence of antimicrobial resistance (AMR) is a major global public health 
 - To identify environmental factors resulting to localization of some AMR genes to a specific country
 
 
-## Workflow
-
 ![Workflow](https://user-images.githubusercontent.com/85280529/193458341-08624b89-e45a-43df-bbf4-9838ada0d620.png)
 
 ## Team Members

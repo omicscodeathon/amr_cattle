@@ -1,0 +1,12 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_150351	1	665	-	sul2	1-665/816	=============..	0/0	81.50	100.00	ncbi	NG_051852.1	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_237343	2775	3582	+	cfxA6	142-948/963	..======/======	3/5	83.59	86.05	ncbi	NG_064793.1	class A broad-spectrum beta-lactamase CfxA6	BETA-LACTAM
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_259963	396	1361	+	cfxA_gen	1-966/966	===============	0/0	100.00	85.61	ncbi	NG_047634.1	CfxA family class A broad-spectrum beta-lactamase	BETA-LACTAM
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_276274	184	678	-	lnu(C)	1-495/495	===============	0/0	100.00	96.36	ncbi	NG_047924.1	lincosamide nucleotidyltransferase Lnu(C)	LINCOSAMIDE
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_408266	1	736	-	aph(6)-Id	1-736/837	==============.	0/0	87.93	100.00	ncbi	NG_047465.1	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_424650	1258	2223	+	cfxA_gen	1-966/966	===============	0/0	100.00	99.79	ncbi	NG_047634.1	CfxA family class A broad-spectrum beta-lactamase	BETA-LACTAM
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_43823	3041	3829	+	aadA27	1-789/789	===============	0/0	100.00	100.00	ncbi	NG_054660.1	ANT(3'')-II family aminoglycoside nucleotidyltransferase AadA27	SPECTINOMYCIN;STREPTOMYCIN
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_498208	611	1831	-	tet(40)	1-1221/1221	===============	0/0	100.00	99.92	ncbi	NG_048141.1	tetracycline efflux MFS transporter Tet(40)	TETRACYCLINE
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_61673	2	463	-	lnu(C)	1-462/495	===============	0/0	93.33	91.78	ncbi	NG_047924.1	lincosamide nucleotidyltransferase Lnu(C)	LINCOSAMIDE
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_726562	848	2767	-	tet(O)	1-1920/1920	===============	0/0	100.00	99.53	ncbi	NG_048264.1	tetracycline resistance ribosomal protection protein Tet(O)	TETRACYCLINE
+../Co_assem_analysis/Kenya/results/01.Kenya.fasta	megahit_950189	1215	3134	-	tet(W)	1-1920/1920	===============	0/0	100.00	99.53	ncbi	NG_048281.1	tetracycline resistance ribosomal protection protein Tet(W)	TETRACYCLINE

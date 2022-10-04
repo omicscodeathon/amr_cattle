@@ -1,10 +1,10 @@
 #Perform Fastqc
 #running fastqc on Kenyan dataset
-fastqc ../data/ke_data/* -o ug_fastqc_results
+fastqc ../data/ke_data/* -o ke_fastqc_results
 #running fastqc on Ugandan dataset
 fastqc ../data/ug_data/* -o ug_fastqc_results
 #running fastqc on Tanzanian dataset
-fastqc ../data/tz_data/* -o ug_fastqc_results
+fastqc ../data/tz_data/* -o tz_fastqc_results
 
 #Perform multiqc
 #running multiqc on Kenyan dataset

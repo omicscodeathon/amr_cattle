@@ -41,11 +41,11 @@ do
 echo $file > $file.txt
 suffix=$(cut -d '_' -f2 $file.txt)
 rm $file.txt
-if [[ $(echo $suffix) == "1.fastq" ]]
+if [[ $(echo $suffix) == "1.fastq.gz" ]]
 then
-echo `basename -s _1.fastq $file`,$file,pair1 >> $ug_csv
+echo `basename -s _1.fastq.gz $file`,$file,pair1 >> $ug_csv
 else
-echo `basename -s _2.fastq $file`,$file,pair2 >> $ug_csv
+echo `basename -s _2.fastq.gz $file`,$file,pair2 >> $ug_csv
 fi
 done
 

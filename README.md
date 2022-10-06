@@ -28,4 +28,4 @@ This is to better manage the livestock for maximisation of production and loweri
 1. [Kauthar M. Omar](https://github.com/Kauthar-Omar) - Team Lead
 2. [George L. Kitundu](https://github.com/EorgeKit) - Co-lead
 3. [Felix M. Lisso](https://github.com/fetche-lab) - Co-lead
-4. [John Njogu](https://github.com/jnnjogu) - Team member
+4. [Dorcus N. Namikelwa](https://github.com/Namikelwa) - Team member

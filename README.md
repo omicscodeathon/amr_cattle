@@ -30,4 +30,4 @@ This is to better manage the livestock for maximisation of production and loweri
 3. [Felix M. Lisso](https://github.com/fetche-lab) - Co-lead
 4. [Dorcus N. Namikelwa](https://github.com/Namikelwa) - Member
 5. [Adijat  Jimoh](https://github.com/adijatj) - Member
-6. Abiola Babajide
+6. [Abiola Babajide](https://github.com/3880132) - Member

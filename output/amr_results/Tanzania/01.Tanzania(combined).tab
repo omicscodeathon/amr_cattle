@@ -1,0 +1,18 @@
+#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_102945	94	957	+	aadS	1-864/864	===============	0/0	100.00	99.77	ncbi	NG_047380.1	aminoglycoside 6-adenylyltransferase AadS	STREPTOMYCIN
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_149290	1089	2288	+	tet(A)	1-1200/1200	===============	0/0	100.00	100.00	ncbi	NG_048154.1	tetracycline efflux MFS transporter Tet(A)	TETRACYCLINE
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_166505	1065	1904	-	sul1	1-840/840	===============	0/0	100.00	100.00	ncbi	NG_048082.1	sulfonamide-resistant dihydropteroate synthase Sul1	SULFONAMIDE
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_166505	2362	3207	-	aadA11	1-846/846	===============	0/0	100.00	100.00	ncbi	NG_047330.1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA11	STREPTOMYCIN
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_166505	3321	3557	-	dfrB1	1-237/237	===============	0/0	100.00	100.00	ncbi	NG_047743.1	trimethoprim-resistant dihydrofolate reductase DfrB1	TRIMETHOPRIM
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_167867	1	769	-	aadA4	1-769/789	===============	0/0	97.47	100.00	ncbi	NG_052359.1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA4	STREPTOMYCIN
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_181755	1199	2014	+	sul2	1-816/816	===============	0/0	100.00	100.00	ncbi	NG_051852.1	sulfonamide-resistant dihydropteroate synthase Sul2	SULFONAMIDE
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_183352	684	1631	-	cfxA_gen	1-948/966	===============	0/0	98.14	83.23	ncbi	NG_047634.1	CfxA family class A broad-spectrum beta-lactamase	BETA-LACTAM
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_204508	292	1384	-	tet(40)	129-1221/1221	.==============	0/0	89.52	100.00	ncbi	NG_048141.1	tetracycline efflux MFS transporter Tet(40)	TETRACYCLINE
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_236329	3143	4318	-	tet(G)	1-1176/1176	===============	0/0	100.00	99.92	ncbi	NG_051907.1	tetracycline efflux MFS transporter Tet(G)	TETRACYCLINE
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_236329	5255	6469	-	floR2	1-1215/1215	===============	0/0	100.00	99.92	ncbi	NG_047875.1	chloramphenicol/florfenicol efflux MFS transporter FloR2	CHLORAMPHENICOL;FLORFENICOL
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_270536	7938	8899	+	blaTHIN-B	1-950/951	========/======	1/12	99.89	80.98	ncbi	NG_047549.1	subclass B3 metallo-beta-lactamase THIN-B	CARBAPENEM
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_277020	3707	4543	-	aph(6)-Id	1-837/837	===============	0/0	100.00	100.00	ncbi	NG_047464.1	aminoglycoside O-phosphotransferase APH(6)-Id	STREPTOMYCIN
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_277020	4543	5370	-	aph(3'')-Ib	1-828/828	===============	0/0	100.00	99.88	ncbi	NG_056002.2	aminoglycoside O-phosphotransferase APH(3'')-Ib	STREPTOMYCIN
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_65400	1	674	+	aadA1	119-792/792	..=============	0/0	85.10	100.00	ncbi	NG_052028.1	ANT(3'')-Ia family aminoglycoside nucleotidyltransferase AadA1	STREPTOMYCIN
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_9339	15712	16613	-	blaRm3	1-902/909	===============	0/0	99.23	92.13	ncbi	NG_052128.1	subclass B3 metallo-beta-lactamase Rm3	CARBAPENEM
+../Co_assem_analysis/Tanzania/results/01.Tanzania.fasta	megahit_96258	3144	4109	-	cfxA_gen	1-966/966	===============	0/0	100.00	99.79	ncbi	NG_047634.1	CfxA family class A broad-spectrum beta-lactamase	BETA-LACTAM

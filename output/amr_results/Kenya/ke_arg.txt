@@ -1,0 +1,12 @@
+GENE
+sul2
+cfxA6
+cfxA_gen
+lnu(C)
+aph(6)-Id
+cfxA_gen
+aadA27
+tet(40)
+lnu(C)
+tet(O)
+tet(W)

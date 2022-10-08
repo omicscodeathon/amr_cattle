@@ -1,5 +1,5 @@
 
-Pipeline development
+#Pipeline development
 The major pipeline steps include;
 
 1. Fetch data from NCBI and mg-rast using  bash script (NCBI-Uganda and Kenya, MG-RAST-Tanzania)
@@ -16,6 +16,6 @@ The major pipeline steps include;
 12. Statistical analyses in R
 
 
-Workflow.
+#Workflow.
 
 ![Workflow](https://user-images.githubusercontent.com/85280529/193459253-f47bfed3-01c3-4fce-bf31-c101d124b4cb.png)

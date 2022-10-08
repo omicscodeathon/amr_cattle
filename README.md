@@ -22,7 +22,7 @@ This is to better manage the livestock for maximisation of production and loweri
 
 ![Workflow](https://user-images.githubusercontent.com/85280529/193459253-f47bfed3-01c3-4fce-bf31-c101d124b4cb.png)
 
-### Scripts  Used
+## Scripts used in the Analysis Pipeline
 1. [01_sequence_retrieval.sh](01_sequence_retrieval.sh) - It is used for sequence  retrieval from NCBI and MG-RAST
 2. [02_quality_control.sh](02_quality_control.sh) - Performs quality control on samples to generate html report
 3. [03_samples_file_prep.sh](03_samples_file_prep.sh) - Used to prepare a samples file an input for squeezemeta
@@ -35,7 +35,8 @@ sequential mode
 8. [07_amr_visualization.R](07_amr_visualization.R) - For visualization of AMR genes in Rstudio
 
 
-## Team Members
+
+## TEAM
 1. [Kauthar M. Omar](https://github.com/Kauthar-Omar) - Team Lead
 2. [George L. Kitundu](https://github.com/EorgeKit) - Co-lead
 3. [Felix M. Lisso](https://github.com/fetche-lab) - Co-lead

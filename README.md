@@ -41,14 +41,14 @@ This project involves comparative study to identify AMR genes (resistomes) in th
 ## Scripts used for Analysis
 The [scripts](https://github.com/omicscodeathon/amr_cattle/tree/main/scripts) directory contains all the scripts used. This is the sequence of the scripts to be followed:
 
-1. Sequence_retrieval - It is used for sequence  retrieval from NCBI and MG-RAST
-2. Quality_control - Performs quality control on samples to generate html report
-3. Samples_file_prep - Used to prepare a samples file an input for squeezemeta
-4. Squeezemeta_coassembly_analysis - Runs squeezemeta under coassembly mode
-5. Squeezemeta_sequential_analysis - Runs squeezemeta under sequential mode
-6. Results_visualization - For visualization of squuezemeta results  
-7. Abricate_AMR - Code for mining AMR genes
-8. AMR_visualization - For visualization of AMR genes in Rstudio
+01. Sequence_retrieval - Used for sequence  mining from NCBI and MG-RAST
+02. Quality_control - Perform quality control on samples to generate html report
+03. Samples_file_prep - Prepare a samples file which is used as an input for squeezemeta
+04. Squeezemeta_coassembly_analysis - Run squeezemeta under coassembly mode
+05. Squeezemeta_sequential_analysis - Run squeezemeta under sequential mode
+06. Results_visualization - Visualization of squuezemeta results  
+07. Abricate_AMR - Mining of AMR genes
+08. AMR_visualization - Visualization of AMR genes in Rstudio
 
 
 

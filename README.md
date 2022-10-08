@@ -23,7 +23,8 @@ This is to better manage the livestock for maximisation of production and loweri
 ![Workflow](https://user-images.githubusercontent.com/85280529/193459253-f47bfed3-01c3-4fce-bf31-c101d124b4cb.png)
 
 
-## The script subdirectory contains all the scripts used. This is the sequence of the scripts to be followed:
+## Scripts used for Analysis
+### The script subdirectory contains all the scripts used. This is the sequence of the scripts to be followed:
 
 1. [01_sequence_retrieval.sh](01_sequence_retrieval.sh) - It is used for sequence  retrieval from NCBI and MG-RAST
 2. [02_quality_control.sh](02_quality_control.sh) - Performs quality control on samples to generate html report

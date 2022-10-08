@@ -2,11 +2,16 @@
 
 *This is a comparative study of Antimicrobial Resistance (AMR) genes found in East African countries (Kenya, Uganda and Tanzania).*
 
-## Introduction
+## Background
 
 The emergence of AMR is a major global public health issue that jeopardises the efficiency of antimicrobials to cure animal infections that threatens their health, welfare and productivity.                         
-This project involves comparative study to identify AMR genes (resistomes) in the cattle microbiota from Kenya,Uganda and Tanzania. The understanding of circulating resistomes is important since management of cattle becomes difficult with disease burden which in turn leads to a decline in production as well as an increase in production costs and thus threatens the East Africa Community (EAC) economic growth agenda. It is therefore imperative to understand what resistomes exist within the member states together with their genetic make up and genetic environmental basis underlying the resistomes.     
+Antimicrobial Resistance Genes (ARGs) in the African cattle production system is a growing environmental concern and a threat to human and animal health. In East African countries such as Kenya, Tanzania, and Uganda, there is a dearth of comparative knowledge of microbiomes and resistomes of small-holder cattle breeds. As such, it became imperative to study the inter-relationships and distribution of these genes to give us further insight on the circulating resistomes and underlying environmental influences.
+The understanding of circulating resistomes is important since management of cattle becomes difficult with disease burden which in turn leads to a decline in production as well as an increase in production costs and thus threatens the East Africa Community (EAC) economic growth agenda. It is therefore imperative to understand what resistomes exist within the member states together with their genetic make up and genetic environmental basis underlying the resistomes.     
 This is to better manage the livestock for maximisation of production and lowering risk and production costs. It will also help stakeholders and policy makers to further improve the standardisation protocols that govern the movement of products that are derived from cattle as well as govern veterinarians on informed decision on how to better manage their disease incidences.
+
+## Project Description
+Raw shotgun metagenomic reads from cattle faecal samples in these countries are available in ENA and MG-RAST databases where they were fetched from.
+This project involves comparative study to identify AMR genes (resistomes) in the cattle microbiota from Kenya,Uganda and Tanzania. 
 
 ## General Objective
 - To compare AMR genes diversity in Kenya, Uganda and Tanzania
@@ -24,7 +29,7 @@ This is to better manage the livestock for maximisation of production and loweri
 
 
 ## Scripts used for Analysis
-### The script subdirectory contains all the scripts used. This is the sequence of the scripts to be followed:
+The script subdirectory contains all the scripts used. This is the sequence of the scripts to be followed:
 
 1. [01_sequence_retrieval.sh](01_sequence_retrieval.sh) - It is used for sequence  retrieval from NCBI and MG-RAST
 2. [02_quality_control.sh](02_quality_control.sh) - Performs quality control on samples to generate html report

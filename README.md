@@ -15,11 +15,11 @@ This project involves comparative study to identify AMR genes (resistomes) in th
 
 **Data**
 
-|COUNTRY| SIZE (.gz format) | SAMPLE COUNT |
+|Country| Size (.gz format) | Sample count |
 |:-----:| :----------------:| :------------:|
-|KENYA  | 2.6 GB | 47 (single-end) |       
-|TANZANIA |1.6 GB | 36 (single-end) |
-|UGANDA |23.2 GB| 06  (paired-end) |
+|Kenya  | 2.6 GB | 47 (single-end) |       
+|Tanzania |1.6 GB | 36 (single-end) |
+|Uganda |23.2 GB| 06  (paired-end) |
 
 
 

@@ -14,3 +14,6 @@ The major pipeline steps include;
 10. Alpha and Beta diversity in R and SqueezeMeta 
 11. Identification of AMR genes using Resfinder, Platon, Abricate e.t.c
 12. Statistical analyses in R
+
+
+![Workflow](https://user-images.githubusercontent.com/85280529/193459253-f47bfed3-01c3-4fce-bf31-c101d124b4cb.png)

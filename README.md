@@ -13,6 +13,16 @@ It is therefore imperative to understand what resistomes exist within the member
 Raw shotgun metagenomic reads from cattle faecal samples in these countries are available in ENA and MG-RAST databases where they were fetched from.
 This project involves comparative study to identify AMR genes (resistomes) in the cattle microbiota from Kenya,Uganda and Tanzania. 
 
+**Data**
+
+|COUNTRY| SIZE (.gz format) | SAMPLE COUNT |
+|:-----:| :----------------:| :------------:|
+|KENYA  | 2.6 GB | 47 (single-end) |       
+|TANZANIA |1.6 GB | 36 (single-end) |
+|UGANDA |23.2 GB| 06  (paired-end) |
+
+
+
 ## General Objective
 - To compare AMR genes diversity in Kenya, Uganda and Tanzania
 

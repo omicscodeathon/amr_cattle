@@ -39,18 +39,16 @@ This project involves comparative study to identify AMR genes (resistomes) in th
 
 
 ## Scripts used for Analysis
-The script subdirectory contains all the scripts used. This is the sequence of the scripts to be followed:
+The [scripts](https://github.com/omicscodeathon/amr_cattle/tree/main/scripts) directory contains all the scripts used. This is the sequence of the scripts to be followed:
 
-1. [01_sequence_retrieval.sh](01_sequence_retrieval.sh) - It is used for sequence  retrieval from NCBI and MG-RAST
-2. [02_quality_control.sh](02_quality_control.sh) - Performs quality control on samples to generate html report
-3. [03_samples_file_prep.sh](03_samples_file_prep.sh) - Used to prepare a samples file an input for squeezemeta
-4. [04_squeezemeta_coassembly_analysis.sh](04_squeezemeta_coassembly_analysis.sh) - Runs squeezemeta under 
-coassembly mode
-5. [04_squeezemeta_sequential_analysis.sh](04_squeezemeta_sequential_analysis.sh) - Runs squeezemeta under 
-sequential mode
-6. [05_results_visualization.sh](05_results_visualization.sh) - For visualization of squuezemeta results  
-7. [06_abricate_AMR.sh](06_abricate_AMR.sh) - Code for mining AMR genes
-8. [07_amr_visualization.R](07_amr_visualization.R) - For visualization of AMR genes in Rstudio
+1. Sequence_retrieval - It is used for sequence  retrieval from NCBI and MG-RAST
+2. Quality_control - Performs quality control on samples to generate html report
+3. Samples_file_prep - Used to prepare a samples file an input for squeezemeta
+4. Squeezemeta_coassembly_analysis - Runs squeezemeta under coassembly mode
+5. Squeezemeta_sequential_analysis - Runs squeezemeta under sequential mode
+6. Results_visualization - For visualization of squuezemeta results  
+7. Abricate_AMR - Code for mining AMR genes
+8. AMR_visualization - For visualization of AMR genes in Rstudio
 
 
 

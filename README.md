@@ -14,7 +14,6 @@ Raw shotgun metagenomic reads from cattle faecal samples in these countries are 
 This project involves comparative study to identify AMR genes (resistomes) in the cattle microbiota from Kenya,Uganda and Tanzania. 
 
 **Data**
-
 |Country| Size (.gz format) | Sample count |
 |:-----:| :----------------:| :------------:|
 |Kenya  | 2.6 GB | 47 (single-end) |       

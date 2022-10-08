@@ -1,4 +1,6 @@
-This directory contains scripts used in our analysis pipeline
+This directory contains scripts used in our analysis pipeline.
+The retrieved reads were all of good quality, thus, there was no need to trim them before using them in subsequent downstream analyses.
+
 
 1. [01_sequence_retrieval.sh](01_sequence_retrieval.sh) - It is used for sequence  retrieval from NCBI and MG-RAST
 2. [02_quality_control.sh](02_quality_control.sh) - Performs quality control on samples to generate html report

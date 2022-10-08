@@ -6,6 +6,14 @@ install.packages("lessR")
 library(lessR)
 
 
+#converting tsv to csv for easy manipulation
+#Kenya
+sed 's/'\t'/,/g' $ke_tsv > $Ke_data
+#Tanzania
+sed 's/'\t'/,/g' $tz_tsv > $Tz_data
+#Uganda
+sed 's/'\t'/,/g' $ug_tsv > $Ug_data
+
 #Data upload 
 Ke_data<-read.csv("Ke_data.csv",header = TRUE)
 Ke_data$COUNTRY <- "Kenya" #adding a new column called country and filling with Kenya

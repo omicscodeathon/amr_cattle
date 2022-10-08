@@ -16,4 +16,6 @@ The major pipeline steps include;
 12. Statistical analyses in R
 
 
+Workflow.
+
 ![Workflow](https://user-images.githubusercontent.com/85280529/193459253-f47bfed3-01c3-4fce-bf31-c101d124b4cb.png)

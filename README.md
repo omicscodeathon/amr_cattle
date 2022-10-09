@@ -45,10 +45,11 @@ The [scripts](https://github.com/omicscodeathon/amr_cattle/tree/main/scripts) di
 03. **Samples_file_prep** - *Prepare a samples file which is used as an input for squeezemeta*
 04. **Squeezemeta_coassembly_analysis** - *Run squeezemeta under coassembly mode*
 05. **Squeezemeta_sequential_analysis** - *Run squeezemeta under sequential mode*
-06. **Results_visualization** - *Visualization of squuezemeta results*  
-07. **Abricate_AMR** - *Mining of AMR genes*
-08. **AMR_visualization** - *Visualization of AMR genes in Rstudio*
-
+06. **Results_visualization** - *Visualization of squuezemeta results*
+07. **Squeezemeta_result_visualization.R** - *Visualization of squuezemeta results in R*
+08. **Abricate_AMR** - *Mining of AMR genes*
+09. **AMR_visualization** - *Visualization of AMR genes in Rstudio*
+10. **main** - *A script that runs the analysis scripts end to end*
 
 
 ## TEAM

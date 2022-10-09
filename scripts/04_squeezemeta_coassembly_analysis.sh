@@ -24,7 +24,7 @@ echo running squeezemeta on Tanzanian dataset.
 --sq -binners "metabat2,concoct" -taxbinmode "c+s"
 
 #Uganda
-echo running squeezemeta on Tanzanian dataset.
+echo running squeezemeta on Ugandan dataset.
 /opt/SqueezeMeta-1.5.2/scripts/SqueezeMeta.pl -m coassembly -p Kenya -s $tz_samples \
 -f $tz_dataset  --D -t 30 -b 14 -assembly_options "--presets meta-large" \
 --sq -binners "metabat2,concoct" -taxbinmode "c+s"

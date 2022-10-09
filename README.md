@@ -29,7 +29,6 @@ This project involves comparative study to identify AMR genes (resistomes) in th
 - To identify common resistomes between Kenya,Uganda and Tanzania
 - To identify unique resistomes in Kenya, Uganda and Tanzania
 - To identify interrelationship between microbiome and resistomes.
-- To identify environmental factors resulting to localization of some AMR genes to a specific country
 
 
 ## Workflow
@@ -55,7 +54,7 @@ The [scripts](https://github.com/omicscodeathon/amr_cattle/tree/main/scripts) di
 ## TEAM
 1. [Kauthar M. Omar](https://github.com/Kauthar-Omar) - Team Lead
 2. [George L. Kitundu](https://github.com/EorgeKit) - Co-lead
-3. [Felix M. Lisso](https://github.com/fetche-lab) - Co-lead
-4. [Adijat  Jimoh](https://github.com/adijatj) - Member
+3. [Felix M. Lisso](https://github.com/fetche-lab) - Member
+4. [Adijat  Jimoh](https://github.com/adijatj) - Writer (manuscript)
 5. [Abiola Babajide](https://github.com/3880132) - Member
-6. [Dorcus N. Namikelwa](https://github.com/Namikelwa) - Member
+6. [Dorcus N. Namikelwa](https://github.com/Namikelwa) - Writer (github)

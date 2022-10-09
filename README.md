@@ -33,7 +33,7 @@ This project involves comparative study to identify AMR genes (resistomes) in th
 
 ## Workflow
 
-![Workflow](https://user-images.githubusercontent.com/85280529/193459253-f47bfed3-01c3-4fce-bf31-c101d124b4cb.png)
+![Workflow](https://user-images.githubusercontent.com/57720624/194745257-1a7e34c0-7cba-47c7-9cc0-131d609519e0.png)
 
 
 ## Scripts used for Analysis

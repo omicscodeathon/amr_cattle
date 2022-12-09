@@ -1,2 +1,0 @@
-#FILE	SEQUENCE	START	END	STRAND	GENE	COVERAGE	COVERAGE_MAP	GAPS	%COVERAGE	%IDENTITY	DATABASE	ACCESSION	PRODUCT	RESISTANCE
-../metagenome_analysis_results/mgm4755579.3/results/01.mgm4755579.3.fasta	megahit_858	503	739	+	dfrB1	1-237/237	===============	0/0	100.00	100.00	ncbi	NG_047743.1	trimethoprim-resistant dihydrofolate reductase DfrB1	TRIMETHOPRIM
